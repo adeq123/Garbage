@@ -8,7 +8,7 @@ package model;
  */
 public class BoardCell {
 
-	private String content; /** content of the cell*/
+	private char content; /** content of the cell*/
 	private Status status; 
 	private Direction d;
 	private Place place;
@@ -20,42 +20,16 @@ public class BoardCell {
 	 * @param d, Direection, direction of the entry
 	 * @param place, 
 	 */
-	public BoardCell(String content, Status status, Direction d, Place place){
+	public BoardCell(char content, Status status, Direction d, Place place){
 		this.content = content;
 		this.status = status;
 		this.d = d;
 		this.place = place;
 	}
-	/**
-	 * Enumerator describing the status of the cell
-	 * @author RoguskiA
-	 *
-	 */
-	private enum Status {
-		ENABLED, DISABLED;
-	}
-	
-	/**
-	 * Enumerator describing direction of the Entry that the cell is used in
-	 * @author RoguskiA
-	 *
-	 */
-	private enum Direction{
-		VERT, HORIZ;
-	}
-	
-	/**
-	 * Enumerator describing the position of the single cell
-	 * @author RoguskiA
-	 *
-	 */
-	protected enum Place {
-		
-		START, INNER, END;
-	}
 
+	
 	/** Method used to set the content of single cell*/
-	public void setConntent(String content) {
+	public void setConntent(char content) {
 		this.content = content;
 	}
 	
@@ -63,11 +37,11 @@ public class BoardCell {
 	 * 
 	 * @return content of the single cell
 	 */
-	public String getContent(){
+	public char getContent(){
 		return this.content;
 	}
 	
-	/** Methode used to set the status of the cell*/
+	/** Method used to set the status of the cell*/
 	public void setStatus (Status status){
 		this.status = status;
 	}
@@ -104,6 +78,10 @@ public class BoardCell {
 	 */	
 	public Place getPlace (){
 		return this.place;
+	}
+	
+	public BoardCell copyCell(){
+		return new BoardCell(this.content, this.status, this.getDirection(), this.getPlace());
 	}
 	
 }

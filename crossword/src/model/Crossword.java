@@ -6,25 +6,57 @@
  */
 package model;
 
+
+import java.io.BufferedReader;
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.io.FileReader;
+import java.io.IOException;
 import java.util.*;
 
 import dictionary.InteliCwDB;
+import model.Strategy.strategyID;
 
 public class Crossword {
 
-	private LinkedList<CwEntry> entries; /**List of entries USED on the board*/
+	private LinkedList<CwEntry> entries = new LinkedList<CwEntry>(); /**List of entries USED on the board*/
 	private Board b; /** board that where corssword is displated*/
 	private InteliCwDB cwdb; /** database of entries*/
-	private final long ID = -1; /** huj wie co*/
+	private final long ID;
+	strategyID strID;
+
 
 	/**
 	 * Construct new crossoword for a given height and widith
 	 * @param h height of crossword
 	 * @param w widith of crossword
 	 */
-	public Crossword (int h, int w){
+	public Crossword (int h, int w, long ID){
 		
 		this.b = new Board(h,w);
+		this.ID = ID;
+		
+	}
+	
+	/**
+	 * Construct new crossoword for a given height and widith
+	 * @param h height of crossword
+	 * @param w widith of crossword
+	 */
+	public Crossword (int h, int w){	
+		this(h,w,-1);
+		
+	}
+	
+	public Crossword (int h, int w,long ID,File oneFile) throws IOException{	
+		this(h,w,ID);
+		String word;
+		int y = 0;
+		BufferedReader czytaj = new BufferedReader(new FileReader(oneFile.getAbsolutePath()));
+		while(((word = czytaj.readLine()) != null)){ //&& ((clue = czytaj.readLine()) != null)){	
+			this.addCwEntry(new CwEntry(word," ",0,y,Direction.HORIZ), new EasyStrategy());
+			y++;
+		}
 		
 	}
 	
@@ -43,7 +75,7 @@ public class Crossword {
 	 */
 	public boolean contains(String word){
 		boolean result = false;
-		for(int i = 0; i <= this.entries.size() || !result; i++) {
+		for(int i = 0; i < this.entries.size() && !result; i++) {
 			if (entries.get(i).getWord().equals(word)){
 				result = true;
 			}		
@@ -81,18 +113,43 @@ public class Crossword {
 	 */
 	public final void addCwEntry(CwEntry cwe, Strategy s){
 		  entries.add(cwe);
-		  s.updateBoard(b,cwe);
+		  s.updateBoard(this.b,cwe);
 		}
 	/**
-	 * to be described...
+	 * Generates a crissword
 	 * @param s
+	 * @throws Exception 
 	 */
-	public final void generate(Strategy s){
-		  CwEntry e = null;
+	public final void generate(Strategy s) throws Exception{
+		
+		  if(s instanceof EasyStrategy)
+			 strID = strategyID.Easy;
+		  else strID = strategyID.Hard;
+		  
+		  CwEntry e;
 		  while((e = s.findEntry(this)) != null){
 		    addCwEntry(e,s);
 		  }
 		}
 	
-	
+	public boolean isEmpty(){
+		
+		return entries.isEmpty();
+		
+	}
+//needs improvement....
+	public String printBoard(){
+		
+		String cwString ="";
+		for(int r = 0;r <  b.getHeight();r++){
+			for(int c = 0;c < b.getWidth();c++){
+				cwString = cwString + b.getCell(c, r).getContent();
+			} cwString =cwString+"\n";
+		}
+		return cwString;
+			
+	}
+	  public Board getBoard(){
+		  return b;
+	  }
 }

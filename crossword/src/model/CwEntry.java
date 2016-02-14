@@ -28,10 +28,6 @@ public class CwEntry extends Entry{
 	public Direction getD(){
 		return this.d;
 	}
-	
-	private enum Direction {
-		HORIZ,
-		VERT;
-	}
+
 
 }

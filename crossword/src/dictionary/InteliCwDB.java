@@ -31,7 +31,7 @@ public class InteliCwDB extends CwDB{
 		LinkedList <Entry> result = new LinkedList <Entry>();
 		Pattern p = Pattern.compile(pattern,Pattern.CASE_INSENSITIVE);
 		
-		for(int i = 0; i <= dict.size(); i++){// traverse through the list
+		for(int i = 0; i < dict.size(); i++){// traverse through the list
 			Matcher m = p.matcher(dict.get(i).getWord());
 			if(m.matches())
 				result.add(dict.get(i));

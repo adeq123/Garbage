@@ -1,5 +1,5 @@
 /**
- * This class model a board of a crossword
+- * This class model a board of a crossword
  * @author RoguskiA
  * @version 1.0
  */
@@ -20,22 +20,28 @@ public class Board {
 	 */
 	public Board (int w, int k){
 		
+		this.w = w;
+		this.k = k;
 		board = new BoardCell [w] [k];
+		for(int r= 0; r< w; r++)
+			for(int c = 0; c < k; c++)
+				board [r] [c] =new BoardCell (' ',Status.ENABLED,Direction.HORIZ,Place.INNER);
 
+			
 	}
 	/**
 	 * 
 	 * @return number of columns of the board
 	 */
 	public int getWidth(){
-		return this.board.length;
+		return this.board [0].length;
 	}
 	/**
 	 * 
 	 * @return number of rows of the board 
 	 */
 	public int getHeight(){
-		return this.board [1].length;
+		return this.board.length;
 		
 	}
 	
@@ -46,7 +52,7 @@ public class Board {
 	 * @return cell with a given coordinates
 	 */
 	public BoardCell getCell(int x, int y){
-		return this.board [x] [y];
+		return this.board [y] [x];
 	}
 	
 	/**
@@ -55,7 +61,7 @@ public class Board {
 	 * @param y, int y coordinate of the cell
 	 */
 	public void setCell(int x, int y, BoardCell c) {
-		this.board [x] [y] = c;
+		this.board [y] [x] = c;
 	}
 	
 	/**
@@ -116,12 +122,14 @@ public class Board {
 	   */
 	  public Board copyBoard () {
 		  Board result = new Board (this.w,this.k);
+		  
 		  for(int i = 0;i < board.length; i++) // wiersze
-			  for(int j=0; j < board[0].length; i++){
-				  result.setCell(i, j, new BoardCell(board [i] [j].getContent(),
-						  board [i] [j].getStatus(), board [i] [j].getDirection(), board [i] [j].getPlace()));
+			  for(int j=0; j < board[0].length; j++){//kolumny
+				  if(board [i] [j] != null)
+				 result.setCell(j, i, board [i] [j].copyCell());
 			  }
 	  return result;
 	  }
+
 	}
 
