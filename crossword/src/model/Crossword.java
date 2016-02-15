@@ -53,10 +53,11 @@ public class Crossword {
 		String word;
 		int y = 0;
 		BufferedReader czytaj = new BufferedReader(new FileReader(oneFile.getAbsolutePath()));
-		while(((word = czytaj.readLine()) != null)){ //&& ((clue = czytaj.readLine()) != null)){	
+		while(((word = czytaj.readLine()) != null)){
 			this.addCwEntry(new CwEntry(word," ",0,y,Direction.HORIZ), new EasyStrategy());
 			y++;
 		}
+		czytaj.close();
 		
 	}
 	
