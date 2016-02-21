@@ -16,9 +16,11 @@ public class CwDB{
 	/**
 	 * construct a new database based on specified file
 	 * @param filename a string, path to our input file
+	 * @throws IOException 
 	 */
-	public CwDB(String filename){
+	public CwDB(String filename) throws IOException{
 		this.filename = filename;
+		this.createDB(filename);
 	}
 	
 	/**

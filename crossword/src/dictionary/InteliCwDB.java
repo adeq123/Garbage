@@ -6,6 +6,7 @@
  */
 package dictionary;
 
+import java.io.IOException;
 import java.util.*;
 import java.util.regex.*;
 
@@ -16,8 +17,9 @@ public class InteliCwDB extends CwDB{
 	/**
 	 * construct a new database based on specified file
 	 * @param filename a string, path to our input file
+	 * @throws IOException 
 	 */
-	public InteliCwDB (String fileName){
+	public InteliCwDB (String fileName) throws IOException{
 		super(fileName);
 	}
 	
