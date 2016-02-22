@@ -9,9 +9,17 @@ package model;
 public class BoardCell {
 
 	private char content; /** content of the cell*/
-	private Status status; 
-	private Direction d;
-	private Place place;
+
+	
+	public static final int HORIZONTAL = 0;
+	public static final int VERTICAL = 1;
+	public static final int BEGINING = 0;
+	public static final int IN = 1;
+	public static final int END = 2;
+	
+	private Boolean [][] abilities; //2D array describing possible placement and direction in which single 
+	//cell could be used. First row descirbes possible placement in horizontal direction. 
+	//The second one describes all possible placements in vertical directions
 	
 	/**
 	 * contruct a simple cell of the board
@@ -20,11 +28,12 @@ public class BoardCell {
 	 * @param d, Direection, direction of the entry
 	 * @param place, 
 	 */
-	public BoardCell(char content, Status status, Direction d, Place place){
+	public BoardCell(char content){
 		this.content = content;
-		this.status = status;
-		this.d = d;
-		this.place = place;
+		this.abilities = new Boolean [2] [3];
+		for (int row = 0; row < 2; row ++)
+			for( int column =0; column < 3; column ++)
+				abilities [row] [column] = true;
 	}
 
 	
@@ -41,47 +50,26 @@ public class BoardCell {
 		return this.content;
 	}
 	
-	/** Method used to set the status of the cell*/
-	public void setStatus (Status status){
-		this.status = status;
+	public Boolean [] [] getAbilities(){
+		return abilities;
 	}
 	
-	/**
-	 * 
-	 * @return status of the cell
-	 */
-	public Status getStatus (){
-		return this.status;
+	public void setAbilities (int row, int column, Boolean value){
+		abilities [row] [column] = value;
 	}
 	
-	/** Method used to set direction of the single cell*/
-	public void setDirection (Direction d){
-		this.d = d;
+	public Boolean [] [] getAbilities (int row, int column, Boolean value){
+		return abilities;
 	}
 	
-	/**
-	 * 
-	 * @return direction of the cell
-	 */
-	public Direction getDirection (){
-		return this.d;
-	}
-	
-	/** method used to place of the cell*/
-	public void setPlace (Place place){
-		this.place = place;
-	}
-	
-	/**
-	 * 
-	 * @return place of the cell in the word (start, inner or end)
-	 */	
-	public Place getPlace (){
-		return this.place;
+	public void setAbilitiesMatrix (Boolean [] [] abilities){
+		this.abilities = abilities;
 	}
 	
 	public BoardCell copyCell(){
-		return new BoardCell(this.content, this.status, this.getDirection(), this.getPlace());
+		BoardCell result = new BoardCell(this.content);
+		result.abilities = this.abilities;
+		return result;
 	}
 	
 }

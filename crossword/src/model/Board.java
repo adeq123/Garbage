@@ -12,7 +12,7 @@ public class Board {
 	private BoardCell [][] board;
 	private int w; /** number of rows of the board*/
 	private int k; /** number of columns of the board*/
-	
+
 	/**
 	 * contruct the board with for a given number of columns and rows
 	 * @param w number of rows
@@ -23,11 +23,15 @@ public class Board {
 		this.w = w;
 		this.k = k;
 		board = new BoardCell [w] [k];
-		for(int r= 0; r< w; r++)
-			for(int c = 0; c < k; c++)
-				board [r] [c] =new BoardCell (' ',Status.ENABLED,Direction.HORIZ,Place.INNER);
+		setDefaultAbilities();
 
 			
+	}
+	/**
+	 * Sets proper properties of board cells. In corners and at the borders it sets Status to DISABLED
+	 */
+	public void setPropertiesOfBoard(){
+		
 	}
 	/**
 	 * 
@@ -74,7 +78,7 @@ public class Board {
 		
 		for(int i=0; i < this.board.length; i++)// wiersze
 			for(int j=0; j < this.board[0].length; j++) {//kolumny
-				if (board [i] [j].getPlace().ordinal() == 1){
+				if (board [i] [j].getAbilities()[0][0] == true || board [i] [j].getAbilities()[1][0] == true){
 					startCells.add(board [i] [j]);
 				}
 			}
@@ -125,10 +129,38 @@ public class Board {
 		  
 		  for(int i = 0;i < board.length; i++) // wiersze
 			  for(int j=0; j < board[0].length; j++){//kolumny
-				  if(board [i] [j] != null)
+				  if(board [i] [j] != null){
 				 result.setCell(j, i, board [i] [j].copyCell());
+				 result.getCell(i, j).setAbilitiesMatrix(board [i] [j].getAbilities());
+				  }
 			  }
 	  return result;
+	  }
+	  
+	  private void setDefaultAbilities(){
+		  
+		  for (int row = 0; row < this.getWidth(); row ++)
+			  for(int column = 0; column < this.getHeight(); column ++){
+				  if(row == 0){
+					  board [row] [column].setAbilities(BoardCell.VERTICAL, BoardCell.END, false);
+					  board [row] [column].setAbilities(BoardCell.VERTICAL, BoardCell.IN, false);
+				  }
+				  
+				  if(row == (this.getHeight()-1)){
+					  board [row] [column].setAbilities(BoardCell.VERTICAL, BoardCell.BEGINING, false);
+					  board [row] [column].setAbilities(BoardCell.VERTICAL, BoardCell.IN, false);
+				  }
+				  
+				  if(column == 0){
+					  board [row] [column].setAbilities(BoardCell.HORIZONTAL, BoardCell.END, false);
+					  board [row] [column].setAbilities(BoardCell.HORIZONTAL, BoardCell.IN, false);
+				  }
+				  
+				  if(column == getWidth()-1){
+					  board [row] [column].setAbilities(BoardCell.HORIZONTAL, BoardCell.BEGINING, false);
+					  board [row] [column].setAbilities(BoardCell.HORIZONTAL, BoardCell.IN, false);
+				  }
+			  }
 	  }
 
 	}
