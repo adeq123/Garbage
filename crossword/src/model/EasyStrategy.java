@@ -101,13 +101,13 @@ public class EasyStrategy extends Strategy{
 	public void updateBoard(Board b, CwEntry e) {
 		if(e.getD() == Direction.VERT){
 			for(int i = e.getY(); i < e.getWord().length(); i++){
-				//FIX BOARD CELL CONSTRUCTR SO THAT IT CONSTRUCT ALL THE BOARD CELLS....
-				b.getCell(e.getX(),i).setConntent(e.getWord().charAt(i-e.getY()));
+				b.getCell(i, e.getX()).setConntent(e.getWord().substring(i-e.getY(), i-e.getY()+1));//(i-e.getY()));
 				
 			}
 		}else if(e.getD() == Direction.HORIZ){
 		for(int i = e.getX();i < e.getWord().length();  i++){
-			b.getCell(i,e.getY()).setConntent(e.getWord().charAt(i-e.getX()));
+			
+			b.getCell(e.getY(), i).setConntent(e.getWord().substring(i-e.getX(), i-e.getX()+1));
 			
 			
 		}

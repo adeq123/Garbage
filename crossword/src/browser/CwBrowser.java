@@ -18,6 +18,7 @@ public class CwBrowser {
     private CwReader myReader;
     private Crossword tmp; // actual crossword
     private EasyStrategy easyStrategy;
+    private HardStrategy hardStrategy;
     private String cwFolderPathStore;
     
     /**
@@ -33,19 +34,28 @@ public class CwBrowser {
     	myWriter = new CwWriter(cwFolderPathStore);
     	myReader = new CwReader(cwFolderPathStore);
     	crosswords = new LinkedList<>();
-    	easyStrategy = new EasyStrategy();
+    	hardStrategy = new HardStrategy(); 
+    	easyStrategy = new EasyStrategy(); 
     }
     /**
      * Generates a crossword for a given dimensions and choosen strategy
      * @param height an int, height of crossword board
      * @param width an int, width of crossword board
+     * @param strategyID, 0 = Easy strategy, 1 = hard strategy
      * @throws Exception
      */
-    public void generateCW(int height, int width) throws Exception{
+    public void generateCW(int height, int width, int strategyID) throws Exception{
     	
     	tmp = new Crossword(height, width);
     	tmp.setCwDB(defaultCwDB);
-    	tmp.generate(easyStrategy);
+    	if(strategyID == 1){
+    		tmp.generate(hardStrategy);
+    		
+    		} else{
+    			
+    			tmp.generate(easyStrategy);
+    		}
+    	
     	updateIterator();
     	iteratorToTheEnd();
     	System.out.print(tmp.printBoard());

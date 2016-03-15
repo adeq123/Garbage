@@ -8,7 +8,7 @@ package model;
  */
 public class BoardCell {
 
-	private char content; /** content of the cell*/
+	private String content; /** content of the cell*/
 
 	
 	public static final int HORIZONTAL = 0;
@@ -24,21 +24,18 @@ public class BoardCell {
 	/**
 	 * contruct a simple cell of the board
 	 * @param content, String a content of the cell
-	 * @param status, Status a status of the cell (enabled, disabled)
-	 * @param d, Direection, direction of the entry
-	 * @param place, 
 	 */
-	public BoardCell(char content){
+	public BoardCell(String content){
 		this.content = content;
 		this.abilities = new Boolean [2] [3];
 		for (int row = 0; row < 2; row ++)
-			for( int column =0; column < 3; column ++)
-				abilities [row] [column] = true;
+			for( int collumn =0; collumn < 3; collumn ++)
+				abilities [row] [collumn] = true;
 	}
 
 	
 	/** Method used to set the content of single cell*/
-	public void setConntent(char content) {
+	public void setConntent(String content) {
 		this.content = content;
 	}
 	
@@ -46,7 +43,7 @@ public class BoardCell {
 	 * 
 	 * @return content of the single cell
 	 */
-	public char getContent(){
+	public String getContent(){
 		return this.content;
 	}
 	
@@ -54,12 +51,12 @@ public class BoardCell {
 		return abilities;
 	}
 	
-	public void setAbilities (int row, int column, Boolean value){
-		abilities [row] [column] = value;
+	public void setAbilities (int row, int collumn, Boolean value){
+		abilities [row] [collumn] = value;
 	}
 	
-	public Boolean [] [] getAbilities (int row, int column, Boolean value){
-		return abilities;
+	public Boolean getAbilities (int row, int collumn){
+		return abilities [row]  [collumn];
 	}
 	
 	public void setAbilitiesMatrix (Boolean [] [] abilities){
@@ -72,4 +69,36 @@ public class BoardCell {
 		return result;
 	}
 	
+	/**
+	 * 
+	 * @return true if the cell has any content
+	 */
+	public boolean checkContent () {
+		return this.content.length() > 0;
+	}
+	
+	/**
+	 * Sets all abilities of the cell to false
+	 */
+	public void setFalse(){
+		for(int row = 0; row < this.abilities.length; row++)
+			for(int collumn = 0; collumn < this.abilities [0].length; collumn++)
+				this.setAbilities(row, collumn, Boolean.FALSE);
+	}
+	
+	/**
+	 * Sets all vertical abilities to false
+	 */
+	public void setVerFalse (){
+		for(int collumn = 0; collumn < this.abilities [0].length; collumn++)
+			this.setAbilities(BoardCell.VERTICAL, collumn, Boolean.FALSE);
+	}
+	
+	/**
+	 * Sets all horizontal abilities to false
+	 */
+	public void setHorFalse (){
+		for(int collumn = 0; collumn < this.abilities [0].length; collumn++)
+			this.setAbilities(BoardCell.HORIZONTAL, collumn, Boolean.FALSE);
+	}
 }

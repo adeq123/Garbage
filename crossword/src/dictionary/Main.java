@@ -15,6 +15,7 @@ public class Main {
 
 	public static void main(String[] args) throws Exception {
 		// TODO Auto-generated method stub
+		
 		/*
 		String filename = "C:\\Users\\RoguskiA\\Documents\\GitHub\\cwdb.txt";
 		InteliCwDB krzyzowka = new InteliCwDB(filename);
@@ -29,8 +30,14 @@ public class Main {
 		
 		Crossword cw = new Crossword(5,10);
 		cw.setCwDB(krzyzowka);
-		EasyStrategy str = new EasyStrategy();
-		
+		cw.getCwDB().getSize();
+		//EasyStrategy str = new EasyStrategy();
+		HardStrategy str = new HardStrategy ();
+		CwEntry entrus = str.findEntry(cw);
+		System.out.println(entrus.getWord());
+		*/
+
+		/*
 		Crossword cw1 = new Crossword(5,10);
 				cw1.setCwDB(krzyzowka);
 				cw1.generate(str);
@@ -61,14 +68,15 @@ public class Main {
 				+ "6. Wyswietl ilosc wczytanych krzyzowek \n 7. Zapisz aktualna krzyzowke \n 9. zakoncz");
 		menu = Integer.parseInt(menuInput.readLine());
 		if(menu == 1){
-			int height, width;
+			int height, width, strategyID;
 			
 			System.out.println("Podaj wysokosc:");
 			height = Integer.parseInt(readInput.readLine());
 			System.out.println("Podaj szerokosc:");
-			
 			width = Integer.parseInt(readInput.readLine());
-			cwBrowser.generateCW(height, width);
+			System.out.println("0 - prosty ksztalt krzyzowki krzyzowka, 1 - skomplikowany ksztalt krzyzowki");
+			strategyID = Integer.parseInt(readInput.readLine());
+			cwBrowser.generateCW(height, width, strategyID);
 				
 		}else if(menu == 2){
 			cwBrowser.nextCW();
@@ -97,6 +105,7 @@ public class Main {
 			System.out.println(cwBrowser.getNumberOfCws()+"\n");
 		}else if(menu == 7){
 			cwBrowser.saveAndMakeTmpActual();
+			System.out.println("Zapisano!");
 		}else if(menu == 9){
 			break;
 		
@@ -104,6 +113,7 @@ public class Main {
 	
 
 	}
+	
 	}
 
 }

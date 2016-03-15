@@ -144,7 +144,11 @@ public class Crossword {
 		String cwString ="";
 		for(int r = 0;r <  b.getHeight();r++){
 			for(int c = 0;c < b.getWidth();c++){
-				cwString = cwString + b.getCell(c, r).getContent();
+				if(!b.getCell(r, c).checkContent()){
+					cwString = cwString + " ";
+				}else{
+					cwString = cwString + b.getCell(r, c).getContent();
+				}
 			} cwString =cwString+"\n";
 		}
 		return cwString;

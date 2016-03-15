@@ -32,7 +32,7 @@ public class CwReader implements Reader{
 		File [] filesPathsArray = folderWithCWs.listFiles();
 		for(File oneFilePath:filesPathsArray){	
 			listWithWords= loadSingleCWToList(oneFilePath);
-			CwList.add(new Crossword(listWithWords.size(), listWithWords.getLast().length()
+			CwList.add(new Crossword(listWithWords.size(), findLongestWord(listWithWords).length()
 					,Long.valueOf(oneFilePath.getName()), oneFilePath));
 			}
 		}
@@ -47,6 +47,20 @@ public class CwReader implements Reader{
 	public LinkedList <Crossword> getAllCws() {
 		return CwList;
 		
+	}
+	/**
+	 * Finds the longest word from input list
+	 * @param listToBeChecked, LinkedList <String> to be checked
+	 * @return the longest word
+	 */
+	private String findLongestWord(LinkedList <String> listToBeChecked){
+		
+		String toReturn = "";
+		for(int i = 0; i < listToBeChecked.size(); i++)
+			if(listToBeChecked.get(i).length() > toReturn.length())
+				toReturn = listToBeChecked.get(i);
+		
+		return toReturn;
 	}
 
 	
