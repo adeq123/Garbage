@@ -26,7 +26,7 @@ public class Main {
 			e.printStackTrace();
 		}
 		
-		String cwBaseFolder = "C:\\Users\\RoguskiA\\Documents\\GitHub\\cwbase";
+		String cwBaseFolder = "C:\\Users\\RoguskiA\\Documents\\GitHub\\cwbasea";
 		
 		Crossword cw = new Crossword(5,10);
 		cw.setCwDB(krzyzowka);
