@@ -49,7 +49,7 @@ public class Main {
 		Crossword cw3 = new Crossword(5,10);
 				cw3.setCwDB(krzyzowka);
 				cw3.generate(str);
-		System.out.println(cw1.printBoard()+"\n"+cw2.printBoard()+"\n"+cw3.printBoard());
+		System.out.println(cw1.printBoard()+"\n"+cw2.printBoard()+"\n"+cw3.printBoard() 213);
 		*/
 		
 		
