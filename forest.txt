@@ -1,0 +1,1259 @@
+{40}{160}Downloaded From www.AllSubs.org
+{1}{100}www.napiprojekt.pl - nowa jakość napisów.|Napisy zostały specjalnie dopasowane do Twojej wersji filmu.
+{4677}{4727}Korekta : Bilo
+{4747}{4859}Cześć. Jestem Forrest.|Forrest Gump.
+{5001}{5071}Chcesz czekoladkę?
+{5105}{5216}Mógłbym ich zjeść|z półtora miliona.
+{5216}{5365}Mama mawiała, że życie|jest jak pudełko czekoladek.
+{5393}{5502}Nigdy nie wiadomo,|na co się trafi.
+{5633}{5704}Te buty|muszą być wygodne.
+{5704}{5875}Można w nich pewnie chodzić|cały dzień i nie czuć zmęczenia.
+{5886}{6030}- Chciałbym mieć takie buty.|- Mnie w nich bolą stopy.
+{6030}{6087}Mama mawiała,
+{6092}{6173}Że z butów|można wiele wyczytać.
+{6173}{6282}Dokąd dana osoba idzie,|gdzie była.
+{6423}{6515}Schodziłem wiele par butów.
+{6533}{6594}Jakbym się postarał,
+{6594}{6730}To pewnie przypomniałbym sobie|moją pierwszą parę.
+{6730}{6805}Mama mówiła,|że zaniosą mnie wszędzie.
+{6805}{6878}Mówiła, że to magiczne buty.
+{6878}{7000}No dobra, Forrest,|możesz otworzyć oczy.
+{7129}{7201}Przejdź się trochę.
+{7348}{7405}I co myślisz?
+{7467}{7580}Ma silne nogi, pani Gump,|nie widziałem silniejszych.
+{7580}{7680}Ale plecy ma krzywe|jak polityk.
+{7680}{7802}Ale już my je wyprostujemy,|co, Forrest?
+{7828}{7931}Mama nazwała mnie na cześć|wielkiego bohatera Wojny Secesyjnej -
+{7931}{7999}Generała Nathana|Bedforda Forresta.
+{7999}{8059}Mówiła, że jesteśmy|z nim spokrewnieni.
+{8059}{8186}Był założycielem pewnego klubu,|zwanego Ku Klux Klanem.
+{8186}{8268}Wszyscy przebierali się|w peleryny i prześcieradła
+{8268}{8379}I zachowywali się jak zgraja|duchów czy coś takiego.
+{8379}{8474}Nawet swoje konie|przykrywali prześcieradłami.
+{8474}{8576}W każdym razie,|tak dostałem swoje imię.
+{8576}{8671}Imię Forrest miało mi|przypominać, że czasami
+{8671}{8783}Robimy rzeczy,|które nie mają sensu.
+{9001}{9076}W tę stronę.|Zaczekaj.
+{9076}{9164}Już dobrze.|Na co się gapicie?
+{9164}{9301}Nie widzieliście nigdy chłopca|z aparatem na nogi?
+{9301}{9397}Nie daj sobie wmówić,|że jesteś gorszy od innych.
+{9397}{9458}Gdyby Bóg chciał,|abyśmy byli jednakowi,
+{9458}{9526}Wszyscy nosilibyśmy|aparaty na nogach.
+{9526}{9648}Mama umiała wyjaśnić rzeczy tak,|że były dla mnie zrozumiałe.
+{9648}{9738}Mieszkaliśmy kawałek|od trasy 17,
+{9738}{9810}Niecały kilometr|od Greenbow w Alabamie.
+{9810}{9882}W hrabstwie Greenbow.
+{9882}{9991}Nasz dom był w rodzinie mamy,|odkąd jej pra-pra-pradziadek
+{9991}{10070}Przybył tu zza oceanu|jakieś tysiąc lat temu.
+{10070}{10183}Skoro było nas tylko dwoje|i tyle pustych pokoi,
+{10183}{10289}Mama zdecydowała się je wynająć,|głównie przejezdnym
+{10289}{10371}Z miejsc takich jak Mobile,|Montgomery itd.
+{10371}{10509}Tym zarabialiśmy na życie.|Mama była bardzo mądra.
+{10509}{10557}Pamiętaj,|co ci powiedziałam.
+{10557}{10649}Nie jesteś gorszy|od innych.
+{10681}{10802}Słyszałeś, co powiedziałam?|Jesteś taki sam jak inni.
+{10802}{10862}Niczym się od nich nie różnisz.
+{10862}{11021}Pani syn jest inny, pani Gump.|Jego iloraz inteligencji wynosi 75.
+{11021}{11135}Każdy z nas jest inny,|panie Hancock.
+{11194}{11266}Chciała, abym otrzymał|najlepsze wykształcenie,
+{11266}{11354}Więc zabrała mnie|do głównej szkoły w Greenbow.
+{11354}{11408}Poznałem dyrektora i innych.
+{11408}{11487}Chcę pani coś pokazać.
+{11490}{11597}To jest norma.|Forrest jest tutaj.
+{11671}{11784}Aby uczęszczać do szkoły prywatnej,|trzeba mieć iloraz równy 80.
+{11784}{11888}Będzie go pani musiała posłać|do szkoły specjalnej.
+{11888}{12005}- Da sobie tam radę.|- A co to w ogóle jest norma?
+{12005}{12133}Może i myśli trochę wolniej,|ale mój Forrest
+{12133}{12212}Dostanie szansę|jak każdy inny.
+{12212}{12317}Nie będzie się uczył bieżnikowania|opon w jakiejś szkole specjalnej.
+{12317}{12426}Mówimy tu|o pięciu małych punktach.
+{12432}{12529}Z pewnością|da się coś zrobić.
+{12538}{12615}Mamy progresywny|model nauczania,
+{12615}{12692}Nie chcemy nikogo zawieść.
+{12692}{12771}Czy istnieje pan Gump?
+{12867}{12937}Wział sobie urlop.
+{13319}{13480}Twojej mamie bardzo zależy|na twoim wykształceniu, synu.
+{13549}{13633}Nie jesteś rozmowny, co?
+{13893}{14010}"W końcu musiał spróbować.|Wydawało się to łatwe, ale..."
+{14010}{14072}"Co się stało? Najpierw..."
+{-14072}{14164}- Co to jest urlop?|- Urlop?
+{14183}{14265}Tato wział sobie urlop.
+{14291}{14447}Urlop, to jak ktoś gdzieś jedzie...|I nigdy nie wraca.
+{14547}{14662}Można chyba powiedzieć, że ja|i mama byliśmy zdani na siebie.
+{14662}{14768}Ale to nam nie przeszkadzało.|Nasz dom nie był nigdy pusty.
+{14768}{14840}Ludzie przyjeżdżali|i odjeżdżali.
+{14840}{14954}- Kolacja! Proszę na kolację!|- Wygląda smakowicie.
+{14954}{15016}Czasami mieliśmy w domu|tyle ludzi,
+{15016}{15098}Że każdy pokój był zajęty|przez podróżnych,
+{15098}{15217}No wiecie,|ludzi żyjących na walizkach.
+{15242}{15321}Forrest Gump, kolacja!
+{15342}{15506}Pewnego razu zatrzymał się u nas|młody człowiek z gitarą.
+{15812}{15909}Mówiłam, abyś nie przeszkadzał.
+{15909}{15948}Nie przeszkadza mi.
+{15948}{16032}Pokazywałem mu parę|chwytów na gitarze.
+{16032}{16104}Kolacja jest gotowa,|jak chcecie jeść.
+{16104}{16176}Tak, dobry pomysł.|Dziękuję pani.
+{16176}{16322}Pokaż mi ten swój fajny krok.|W zwolnionym tempie.
+{16355}{16479}Lubiłem tę gitarę.|Miała fajne brzmienie.
+{16486}{16640}Zacząłem się poruszać w rytm muzyki,|kręcić biodrami.
+{16700}{16791}Pewnej nocy pojechaliśmy|z mamą na zakupy.
+{16791}{16922}Wiecie, co zobaczyłem|na wystawie sklepowej?
+{17189}{17259}To nie dla dzieci.
+{17314}{17419}Parę lat później, ten przystojny|młokos, którego zwano Królem,
+{17419}{17490}Cóż, za dużo śpiewał.
+{17490}{17564}Dorobił się|zawału serca czy coś.
+{17564}{17651}Pewnie trudno być królem.
+{17720}{17824}To śmieszne, jakie rzeczy|się pamięta, a jakich nie.
+{17824}{17946}- Daj z siebie wszystko, Forrest.|- Dobrze, mamo.
+{17946}{18072}Dobrze pamiętam|pierwszą podróż do szkoły.
+{18138}{18185}Wsiadasz?
+{18186}{18271}Mama mówi, żeby nie jeździć|z nieznajomymi.
+{18271}{18343}To szkolny autobus.
+{18391}{18517}- Jestem Forrest, Forrest Gump.|- Dorothy Harris.
+{18517}{18591}Teraz już się znamy.
+{18885}{18967}To miejsce jest zajęte.
+{18983}{19025}Zajęte.
+{19207}{19284}Nie możesz tu usiąść.
+{19312}{19394}Śmieszne,|co zapada w pamięć.
+{19394}{19463}Nie pamiętam swoich narodzin.
+{19463}{19539}Nie pamiętam, co dostałem|na pierwszą gwiazdkę
+{19539}{19630}Ani kiedy poszedłem|na pierwszy piknik,
+{19630}{19727}Ale pamiętam ten pierwszy raz,|kiedy usłyszałem
+{19727}{19813}Najsłodszy głos na świecie.
+{19813}{19897}Możesz usiąść obok mnie.
+{19936}{20044}Nigdy nie widziałem|nic równie pięknego.
+{20044}{20097}Była jak anioł.
+{20097}{20162}Siadasz czy nie?
+{20286}{20336}Co ci się stało w nogi?
+{20336}{20454}Nic, dziękuję.|Moje nogi są w porządku.
+{20454}{}Siedziałem obok niej
+{20526}{20597}I rozmawialiśmy|całą drogę do szkoły.
+{20597}{20655}Moje plecy|są krzywe jak pałąk.
+{20655}{20779}Poza mamą nikt ze mną nie rozmawiał|ani nie zadawał mi pytań.
+{20779}{20837}Jesteś głupi czy co?
+{20837}{20924}Mama mówi, że "poznasz|głupiego po czynach jego".
+{20924}{21046}- Jestem Jenny.|- Forrest, Forrest Gump.
+{21048}{21116}Od tamtego dnia|byliśmy nierozłączni.
+{21116}{21223}Byliśmy|jak marchewka z groszkiem.
+{21245}{21303}Jenny nauczyła mnie|chodzić po drzewach.
+{21303}{21363}Dalej, Forrest, potrafisz.
+{21363}{21465}Ja pokazałem jej,|jak się zwisa.
+{21468}{21630}Pomagała mi w nauce czytania,|a ja uczyłem ją jak się bujać.
+{21630}{21746}Czasami czekaliśmy|na pojawienie się gwiazd.
+{21746}{21876}- Mama będzie się o mnie martwić.|- Zostań jeszcze chwilę.
+{21876}{21976}Z jakiegoś powodu, Jenny|nie chciała nigdy iść do domu.
+{21976}{22041}Dobrze, zostanę.
+{22043}{22150}Była moim|najlepszym przyjacielem.
+{22202}{22291}Moim jedynym przyjacielem.
+{22308}{22403}Mama powtarzała,|że cuda dzieją się codziennie.
+{22403}{22532}Niektórzy udają, że nie wierzą,|ale wierzą.
+{22545}{22597}Hej, tępak!
+{22622}{22681}Jesteś opóźniony|czy po prostu głupi?
+{22681}{22793}- Jestem Forrest Kulas.|- Uciekaj, Forrest.
+{22793}{22870}Biegnij! Uciekaj! Szybciej!
+{22870}{22952}- Na rowery!|- Dorwijmy go! Szybciej!
+{22952}{23051}Uważaj, tępaku!|Dopadniemy cię!
+{23068}{23157}Biegnij, Forrest! Biegnij!
+{23204}{23254}Wracaj tu!
+{23583}{23672}Biegnij, Forrest! Biegnij!
+{24410}{24487}Trudno w to uwierzyć,
+{24500}{24577}Ale biegam jak wiatr.
+{24659}{24783}{12}Odtąd, jak miałem|gdzieś iść, to biegłem.
+{25589}{25688}Ten chłopak|to latający głupek.
+{25759}{25857}Jak mówiłem, Jenny|nie śpieszyło się nigdy do domu.
+{25857}{25944}Jej dom był|tak stary jak Alabama.
+{25944}{26007}Jej mama poszła do nieba,|jak Jenny miała pięć lat,
+{26007}{26091}A jej tato był farmerem.
+{26118}{26158}Jenny?
+{26165}{26216}To był kochający człowiek.
+{26216}{26360}Nieustannie całował i dotykał|Jenny i jej siostry.
+{26360}{26481}Aż pewnego razu, Jenny|nie było w autobusie do szkoły.
+{26481}{26564}Dlaczego|nie przyszłaś do szkoły?
+{26564}{26629}Cicho, tato śpi.
+{26645}{26685}Chodź!
+{26703}{26822}Jenny, dokąd to?|Wracaj tu natychmiast!
+{26874}{26931}Gdzie jesteś?
+{26999}{27091}Jenny! Jenny, gdzie jesteś?
+{27172}{27264}Pomódl się ze mną, Forrest.
+{27287}{27415}Dobry Boże, zmień mnie w ptaka,|abym mogła odfrunąć daleko stąd.
+{27415}{27535}Dobry Boże, zmień mnie w ptaka,|abym mogła odfrunąć...
+{27535}{27627}Niezbadane są|wyroki boskie.
+{27645}{27708}Tego dnia Bóg|nie zmienił Jenny w ptaka.
+{27708}{27800}Ale kazał policji powiedzieć,
+{27800}{27887}Że nie musi już mieszkać|z ojcem.
+{27887}{27992}Miała zamieszkać z babcią,|na Creekmore Avenue,
+{27992}{28122}Z czego się cieszyłem,|bo to bardzo blisko mnie.
+{28122}{28248}Czasami Jenny|przychodziła do mnie w nocy.
+{28256}{28390}Mówiła, że się boi.|Czego się bała? Nie wiem.
+{28394}{28523}Podejrzewam, że psa babci.|To był zły pies.
+{28532}{28675}Byliśmy najlepszymi przyjaciółmi|aż do szkoły średniej.
+{28675}{28754}- Hej, tępak!|- Skończ z tym!
+{28754}{28790}Biegnij, Forrest, biegnij!
+{28790}{28899}- Nie słyszałeś, tępaku?|- Biegnij!
+{28903}{29015}Wsiadaj! Szybciej!|On zwiewa! Ruszaj!
+{29015}{29104}Biegnij, Forrest! Biegnij!
+{29738}{29805}Biegnij, Forrest!
+{29849}{29957}Bywało tak, że biegłem tam,|dokąd miałem pójść.
+{29957}{30096}Nigdy nie myślałem,|że to będzie czemuś służyć.
+{30725}{30777}Kto to, do cholery, jest?
+{30777}{30896}Forrest Gump, trenerze.|Miejscowy idiota.
+{30896}{31010}Dasz wiarę?|Dostałem się na uniwerek.
+{31156}{31244}- Forrest, ruszaj się! Bieg!|- Okej.
+{31244}{31368}- Biegnij!|- Biegnij, ty głupi sukinsynu!
+{31646}{31740}Biegnij, sukinsynu, biegnij!
+{32106}{32265}To najgłupszy sukinsyn na świecie,|ale biega jak wiatr.
+{32305}{32454}Według mnie, lata na uniwerku|to były dziwne czasy.
+{32461}{32518}Oddziały federalne,|egzekwujące nakaz sądowy,
+{32518}{32574}Zintegrowały dziś|Uniwersytet Alabama.
+{32574}{32612}Przyjęto|dwóch czarnych,
+{32612}{32685}Ale dopiero|jak gubernator George Wallace
+{32685}{32809}Zagroził zablokowaniem|drzwi wejściowych.
+{32832}{32881}Earl, co się tu dzieje?
+{32881}{32943}Śmierdziele pchają się|do szkoły.
+{32943}{33015}Kiedy skunksy|włażą nam na ganek,
+{33015}{33073}Mama przegania je miotłą.
+{33073}{33192}Chodzi o czarnuchów, idioto.|Chcą z nami studiować.
+{33192}{33241}Z nami? Naprawdę?
+{33241}{33289}Wkrótce po spełnieniu
+{33289}{33360}Przez gubernatora obietnicy|zablokowania wejścia,
+{33360}{33415}Prezydent Kennedy|nakazał Ministrowi Obrony
+{33415}{33464}Wprowadzenie do akcji wojska.
+{33464}{33530}Oto nagrane spotkanie|generała Grahama,
+{33530}{33595}Dowódcy Gwardii Narodowej,|z gubernatorem Wallacem.
+{33595}{33687}Gwardziści przybyli tu dziś
+{33698}{33791}Jako siły federalne Alabamy.|Mieszkają tu.
+{33791}{33901}Są naszymi braćmi.|Wygrywamy w tej potyczce,
+{33901}{34010}Bo otwieramy oczy amerykańskiemu|narodowi na niebezpieczeństwa,
+{34010}{34109}Które stają się dziś|oczywiste,
+{34125}{34276}Na trend w kierunku|wojskowej dyktatury w tym kraju.
+{34284}{34326}I tak, z końcem dnia,
+{34326}{34420}Segregacja rasowa została|wyeliminowana z uniwersytetu,
+{34420}{34499}A studenci Jimmy Hood|i Vivian Malone
+{34499}{34603}Zostali zapisani|na kursy letnie.
+{34618}{34722}Proszę pani.|Upuściła pani książkę.
+{34722}{34765}Gubernator Wallace|dotrzymał obietnicy.
+{34765}{34850}Jego obecność na miasteczku|zapobiegła rozruchom...
+{34850}{34938}- Czy to nie był Gump?|- Nie, to niemożliwe.
+{34938}{35008}A właśnie, że tak.
+{35087}{35197}Parę lat później, ten gniewny|facet blokujący drzwi uniwerka
+{35197}{35333}Postanowił startować|w wyborach na prezydenta.
+{35341}{35495}Ten pomysł się komuś nie spodobał.|Ale facet przeżył.
+{35604}{35700}- Mój autobus.|- Czy to dziewiątka?
+{35700}{35834}- Nie, czwórka.|- Miło się z tobą rozmawiało.
+{35882}{36038}Pamiętam, jak postrzelono|Wallace'a. Studiowałam wtedy.
+{36038}{36a14}Byłaś w szkole żeńskiej|czy mieszanej?
+{36114}{36163}W koedukacyjnej.
+{36163}{36268}Jenny była w szkole|tylko dla dziewcząt.
+{36268}{36387}Ale odwiedzałem ją,|kiedy tylko mogłem.
+{37066}{37111}To boli.
+{37474}{37594}Forrest, przestań!|Przestań! Co ty robisz?
+{37594}{37706}- On cię krzywdził.|- Nie! Stań tam!
+{37714}{37786}- Billy, przepraszam.|- Trzymaj się ode mnie z daleka.
+{37786}{37882}Nie bądź takim...|Nie odjeżdżaj. Zaczekaj.
+{37882}{37961}Nie wiedział, co robi.
+{37977}{38054}Dlaczego to zrobiłeś?
+{38107}{38226}Przyniosłem ci czekoladki.|Przepraszam.
+{38289}{38354}Pójdę już sobie.
+{38457}{38524}Spójrz na siebie.
+{38539}{38596}Chodź. Chodź.
+{38776}{38836}To twój pokój?
+{38925}{39051}Czy ty czasem marzysz|o tym, kim będziesz?
+{39092}{39179}Kim będę?|A nie będę sobą?
+{39197}{39279}Zawsze będziesz sobą,|ale innym rodzajem siebie.
+{39279}{39376}Rozumiesz?|Ja chcę być sławna.
+{39403}{39495}Chcę być piosenkarką,|tak jak Joan Baez.
+{39495}{39645}Chcę wejść na pustą scenę|z moją gitarą i zaśpiewać.
+{39645}{39692}Tylko ja.
+{39734}{39848}I chcę dotrzeć do ludzi,|do ich serc.
+{39883}{39995}Chcę, aby każdy|mógł mnie zrozumieć.
+{40146}{40243}Byłeś już kiedyś|z dziewczyną?
+{40250}{40374}Siedzę obok nich|na niektórych zajęciach.
+{41021}{41067}Przepraszam.
+{41067}{41171}- Nic nie szkodzi.|- Przepraszam.
+{41297}{41349}W porządku.
+{41410}{41512}- Okej.|- Kręci mi się w głowie.
+{41669}{41808}Założę się, że do tego|na zajęciach nie doszło.
+{41851}{41886}Nie.
+{42023}{42108}Zmarnowałem chyba|twojej koleżance szlafrok.
+{42108}{42167}Nie szkodzi.|I tak jej nie lubię.
+{42167}{42232}BIEGNIJ, FORREST
+{42368}{42425}STÓJ, FORREST
+{42539}{42641}Studia przeleciały dość szybko,|bo grałem dużo w futbol.
+{42641}{42732}Dostałem się nawet|do uczelnianej reprezentacji kraju,
+{42732}{42823}A wtedy poznaje się|prezydenta.
+{42823}{42904}Prezydent Kennedy przyjał dziś|w swym gabinecie
+{42904}{42945}Uniwersytecką|drużynę futbolu.
+{42945}{43057}Główną atrakcją spotkania|z prezydentem USA
+{43057}{43151}Jest jedzenie. Umieszczają|człowieka w małym pokoju
+{43151}{43237}Ze stołami uginającymi się|od jedzenia i picia.
+{43237}{43319}Ale ponieważ, po pierwsze,|byłem jedynie spragniony,
+{43319}{43502}A po drugie, drinki były za darmo,|to wypiłem z 15 Dr. Peppersów.
+{43536}{43601}Jak to jest być|w reprezentacji kraju?
+{43601}{43638}To wielki zaszczyt.
+{43638}{43696}Jak to jest być|w reprezentacji kraju?
+{43696}{43745}Wspaniale.
+{43745}{43808}Jak to jest być|w reprezentacji kraju?
+{43808}{43842}Wspaniale.
+{43842}{43952}- Gratuluję. Jak się czujesz?|- Muszę się odlać.
+{43952}{44014}Musi się odlać.
+{44363}{44435}Jakiś czas później,|bez żadnej przyczyny,
+{44435}{44569}Ktoś zastrzelił tego miłego,|młodego prezydenta.
+{44569}{44679}A kilka lat po jego zabójstwie,|zabito również i jego brata,
+{44679}{44762}Tyle, że w kuchni jakiegoś hotelu.
+{44762}{44891}Pewnie trudno być braćmi.|Ja nie mam braci.
+{44916}{44967}Dacie wiarę?
+{44967}{45068}Po pięciu latach grania w futbol|ukończyłem studia.
+{45068}{45120}Gratuluję, synu.
+{45120}{45202}Mama była ze mnie dumna.
+{45202}{45298}Jestem z ciebie taka dumna.|Potrzymam ci to.
+{45298}{45351}Gratuluję, synu.
+{45351}{45451}Zastanawiałeś się już,|co chcesz dalej robić?
+{45451}{45511}Co chcę robić?
+{45522}{45573}Cześć. Jestem|Forrest Gump.
+{45573}{45653}Gówno mnie obchodzi|twoje imię, zaprzańcu!
+{45653}{45722}Jesteś najgorszym ścierwem!
+{45722}{45812}Ruszaj dupę i do autobusu!|To armia a nie przyjęcie!
+{{45812}}{45882}- Zajęte.|- Zajęte.
+{46009}{46081}Z początku myślałem,|że popełniłem błąd.
+{46081}{46230}To był mój pierwszy dzień,|a już się na mnie darli.
+{46262}{46329}Siadaj, jak chcesz.
+{46329}{46420}Nie wiedziałem, kogo spotkam,|ani o co mogą mnie pytać.
+{46420}{46487}Byłeś już na łodzi|do połowu krewetek?
+{46487}{46589}Nie. Ale byłem na dużym statku.
+{46597}{46670}Mówię o łodzi|do połowu krewetek.
+{46670}{46741}Pracowałem na nich|całe swoje życie.
+{46741}{46847}Zacząłem na łodzi wujka,|jak miałem jakieś 9 lat.
+{46847}{46968}Rozglądałem się za kupnem własnej,|ale powołali mnie do wojska.
+{46968}{47049}Nazywam się|Benjamin Buford Blue.
+{47049}{47151}Mówią na mnie Bubba,|jak na pieniaczy z Południa.
+{47151}{47198}Dasz wiarę?
+{47198}{47304}Ja nazywam się Forrest Gump.|Wołają na mnie Forrest Gump.
+{47304}{47462}Bubba pochodził z Bayou La Batre,|a jego mama gotowała krewetki.
+{47462}{47523}Podobnie jak i jej mama|przed nią,
+{47523}47611}I jak mama jej mamy|przed nimi.
+{47611}{47682}Rodzina Bubby|wiedziała wszystko
+{47682}{47728}Na temat krewetek.
+{47728}{47809}Wiem wszystko|na temat krewetek.
+{47809}{47965}Rozkręcę swój własny biznes,|jak tylko wyjdę z wojska.
+{48013}{48107}Gump! Główny cel|pobytu w armii?
+{48107}{48169}Robić to, co mi pan każe,|panie sierżancie!
+{48169}{48255}Cholera, Gump,|geniusz z was.
+{48255}{48317}To najlepsza odpowiedź,|jaką słyszałem.
+{48317}{48472}Iloraz inteligencji pewnie ze 160.|Jesteście cholernie bystry, Gump.
+{48472}{48529}Słuchajcie, ludzie!
+{48529}{48632}Nie wiem czemu,|ale pasowałem do armii jak ulał.
+{48632}{48682}Nie jest tam tak najgorzej.
+{48682}{48764}Trzeba tylko starannie|ścielić łóżko, stać na baczność
+{48764}{48850}I odpowiadać na każde pytanie:|"Tak jest, panie sierżancie".
+{48850}{48945}- Zrozumiano?|- Tak jest, panie sierżancie!
+{48945}{49029}Ciągniesz sieci po dnie.
+{49030}{49135}W dobry dzień złowisz|ponad 50 kilo krewetek.
+{49135}{49212}Łowiąc we dwóch|10 godzin dziennie,
+{49212}{49260}Odjąć wydatki na paliwo...
+{49260}{49369}- Gotowe, panie sierżancie!|- Gump!
+{49387}{49457}Dlaczego złożyliście tę broń|tak szybko?
+{49457}{49504}Tak mi pan kazał,|sierżancie.
+{49504}{49595}Jezu Chryste.|To nowy rekord.
+{49595}{49667}Gdyby nie to, że świetny|z was materiał na żołnierza,
+{49667}{49725}Poszlibyście|do szkoły oficerskiej, Gump.
+{49725}{49782}Zostaniecie kiedyś generałem!
+{49782}{49876}Broń na części|i kontynuować!
+{49878}{49979}Wracając do tematu,|krewetki to owoce morza.
+{49979}{50099}Można je rzucić na grilla,|gotować, dusić, piec, podsmażać.
+{50099}{50173}Szaszłyki z krewetek,|krewetki w tomacie,
+{50173}{50300}W zalewie, smażone na głębokim|tłuszczu i lekko podsmażane.
+{50300}{50415}Krewetki z ananasem, z cytryną,|z mlekiem kokosowym,
+{50415}{50507}Panierowane; zupa z krewetek,|gulasz z krewetek,
+{50507}{50685}Sałatka z krewetek, hamburger|z krewetek, kanapka z krewetkami.
+{50723}{50795}To by było na tyle.
+{50872}{50950}Noce w armii|bywają samotne.
+{50950}{51070}Leżeliśmy na swoich łóżkach,|a ja tęskniłem za mamą
+{51070}{51122}I za Jenny.
+{51228}{51317}Gump, spójrz na jej cycki.
+{51632}{51718}Okazało się, że Jenny|wpadła w tarapaty
+{51718}{51799}Przez jakieś zdjęcia|w mundurku swej uczelni.
+{51799}{51888}I wyrzucono ją ze studiów.
+{51930}{51993}Ale to nie było takie złe,
+{51993}{52089}Bo właściciel teatru|z Memphis w Tennessee,
+{52089}{52219}Zobaczył te zdjęcia|i zaoferował jej pracę piosenkarki.
+{52219}{52328}Przy pierwszej nadarzającej się|okazji pojechałem do Memphis,
+{52328}{52381}Aby obejrzeć jej występ.
+{52381}{52455}To była Amber, Amber Flame.|Proszę o oklaski.
+{52455}{52525}A teraz nacieszcie państwo|uszy i oczy
+{52525}{52616}Naszą pięknością|prosto z Hollywoodu.
+{52616}{52750}Przywitajmy gorąco|zachwycającą Bobbie Dylon.
+{53358}{53507}Jej marzenie się ziściło.|Była piosenkarką country.
+{53712}{53858}- Dalej, mała, obnaż się!|- Dajcie jej harmonijkę.
+{53917}{54029}- To nie jest "Kapitan Kangur"!|- Mam tu coś dla ciebie.
+{54029}{54071}Cholera jasna!
+{54071}{54185}Głupi palant!|Ja tu śpiewam piosenkę.
+{54246}{54313}Paulie, chodź tu!
+{54338}{54393}Zamknij się!
+{54439}{54558}Forrest! Co ty tu robisz?|Co ty robisz?
+{54567}{54679}Co ty robisz?|Postaw mnie na ziemię!
+{54779}{54879}Nie możesz tak robić.|Nie możesz mnie ochraniać.
+{54879}{54983}- Chcieli cię dotknąć.|- Wiele facetów próbuje.
+{54983}{55070}Nie możesz|tak postępować.
+{55081}{55188}Nic na to nie poradzę.|Kocham cię.
+Ups{55221}{55303}Nie wiesz,|co to miłość.
+{55430}{55535}Pamiętasz, jak się|razem modliliśmy?
+{55535}{55693}Aby Bóg zmienił mnie w ptaka|i abym mogła odlecieć w siną dal?
+{55693}{55753}Tak, pamiętam.
+{55788}{55905}Myślisz, że pofrunęłabym|z tego mostu?
+{56035}{56119}Co masz na myśli, Jenny?
+{56182}{56217}Nic.
+{56288}{56372}Muszę się stąd wydostać.
+{56398}{56487}- Zaczekaj, Jenny.|- Trzymaj się ode mnie z daleka.
+{56487}{56535}Zostaw mnie w spokoju.
+{56535}{56602}- Podwiezie mnie pan?|- Dokąd jedziesz?
+{56602}{56664}- Wszystko jedno.|- Wsiadaj.
+{56664}{56736}Do widzenia, Jenny.
+{56748}{56835}Wysyłają mnie|do Wietnamu.
+{56857}{56936}To zupełnie inny kraj.
+{56990}{57070}Proszę chwilę zaczekać.
+{57070}{57137}Obiecaj mi jedno.
+{57143}{57219}Jeśli będziesz miał kłopoty,|nie udawaj dzielnego.
+{57219}{57343}- Tylko biegnij, zgoda? Uciekaj.|- Zgoda.
+{57519}{57596}Będę do ciebie pisał.
+{57797}{57852}I odjechała.
+{58248}{58379}Masz do mnie wrócić|cały i zdrowy. Słyszysz?
+{59373}{59480}Powiedziano nam, że w Wietnamie|będzie zupełnie inaczej
+{59480}{59534}Niż w Stanach.
+{59534}{59698}I tak było, nie licząc|piwa w puszkach i żarcia z grilla.
+{59908}{59985}Założę się, że w tych wodach|aż się roi od krewetek.
+{59985}{60057}Podobno te wietnamskie krewetki|są dobre.
+{60057}{60147}Jak już wygramy wojnę|i zajmiemy te obszary,
+{60147}{60235}Sprowadzimy tu naszych|do łowienia krewetek.
+{60235}{60327}Będziemy łowić bez przerwy.
+{60345}{60432}- Moi nowi rekruci.|- Dobry, panie poruczniku.
+{60432}{60503}Opuścić ręce.|Macie mi nie salutować.
+{60503}{60566}W tej okolicy|nie brakuje snajperów,
+{60566}{60618}Którzy polują na oficerów.
+{60618}{60724}Jestem porucznik Dan Taylor.|Witam w Fort Platoon.
+{60724}{60844}- Co z twoją wargą?|- Mam taką od urodzenia.
+{60844}{60980}Lepiej ją wciągnij,|bo zahaczy o drut kolczasty.
+{60980}{61031}Skąd jesteście, chłopaki?
+{61031}{61160}- Z Alabamy, panie poruczniku!|- Bliźniacy?
+{61176}{61275}Nie. Nie jesteśmy|spokrewnieni.
+{61291}{61427}Zasady są proste.|Trzymacie się mnie i uczycie
+{61436}{61527}Od tych, co są tu dłużej,|a nic wam nie będzie.
+{61527}{61580}Jedna rzecz|w waszym wyposażeniu
+{61580}{61687}Może stanowić różnicę między|życiem a śmiercią. Skarpety.
+{61687}{61780}Wojskowa zieleń, miękkie podbicie.|Stopy mają być suche.
+{61780}Ups{61873}Podczas wypadów zmieniacie|skarpety na każdym postoju.
+{61873}{61958}Mekong potrafi|ogryźć stopy do kości.
+{61958}{62059}Sierżancie Sims. Gdzie lina,|którą kazałem zamówić?
+{62059}{62154}- Złożyłem zamówienie.|- Dzwoń do tych sukinsynów...
+{62154}{62275}Por. Dan znał się na rzeczy.|Dobrze, że do niego trafiłem.
+{62275}{62367}Pochodził z rodziny|z wojskowymi tradycjami.
+{62367}{62466}Ktoś z jego bliskich|walczył i ginał
+{62466}{62565}W każdej wojnie amerykańskiej.
+{62587}{62665}Cholera, daj im w dupę.|I pospiesz się!
+{62665}{62784}Dorównanie im|nie będzie pewnie proste.
+{62785}{62905}Więc jesteście z Arkansas?|Przejeżdżałem tamtędy.
+{62905}{62971}Little Rock to ładne miasto.
+{62971}{63049}A teraz rzucajcie manele|i idźcie do sierżanta.
+{63049}{63115}Da wam potrzebny sprzęt.
+{63115}{63221}Jak jesteście głodni,|to mamy na grillu steki.
+{63221}{63356}W plutonie obowiązują dwie zasady.|Jeden, dbacie o swoje stopy.
+{63356}{63512}Dwa, nie robicie głupstw,|czyli nie dajecie się zabić.
+{63612}{63706}Postaram się go nie zawieść.
+{63955}{64114}Zobaczyłem dużo okolicy.|Chodziliśmy na długie spacery.
+{64290}{64421}I zawsze szukaliśmy|faceta o imieniu Żółtek.
+{64573}{64657}- Stać!|- Stać, chłopaki!
+{64673}{64744}Nie zawsze było łatwo.
+{64744}{64826}Por. Dan miewał|dziwne przeczucia, co do skał
+{64826}{64974}Czy śladów na drodze i kazał|nam padać na ziemię i zamknąć się.
+{64974}{65056}Na ziemię! Zamknąć się!
+{65056}{65121}I tak robiliśmy.
+{65503}{65562}Nie znam się na rzeczy,
+{65562}{65652}Ale w tej wojnie walczył chyba|cały kwiat młodej Ameryki.
+{65652}{65729}Był Dallas z Phoenix.
+{65737}{65811}Cleveland z Detroit.
+{65819}{65903}Hej, Tex. Co się dzieje?
+{65931}{66055}A Tex był...|Nie pamiętam,|skąd pochodził Tex.
+{66055}{66097}A, nic.
+{66180}{66230}Pluton nr 4, na nogi.
+{66230}{66352}Do rzeki mamy jeszcze|10 kilosów. Ruszać się.
+{66352}{66471}- Raz, dwa, marsz!|- Dalej! Ruszać się.
+{66500}{66590}W Wietnamie|było zawsze gdzie iść.
+{66590}{66630}Ognia!
+{66710}{66772}Gump, sprawdź tę dziurę.
+{66772}{66844}I zawsze coś do roboty.
+{66844}{66953}Rozproszyć się!|Osłaniać jego tyły!
+{67036}{67185}Pewnego dnia zaczęło padać|i nie przestało przez 4 miesiące.
+{67185}{67264}Doświadczyliśmy każdego|możliwego rodzaju deszczu.
+{67264}{67383}Były małe kapuśniaczki|i wielkie ulewy.
+{67428}{67537}Deszcz zacinający z boku|i taki, co padał
+{67537}{67611}Jakby z dołu w górę.
+{67623}{67707}Kurczę, lało nawet w nocy.
+{67707}{67779}- Hej, Forrest.|- Hej, Bubba.
+{67779}{67871}Oprę się o ciebie.|A ty oprzyj się o mnie.
+{67871}{67975}W ten sposób, nie będziemy|musieli spać z głowami w mule.
+{67975}{68038}Wiesz, dlaczego|dobry z nas zespół?
+{68038}{68174}Bo uważamy na siebie nawzajem,|tak jak bracia.
+{68206}{68297}Hej, zastanawiałem się|nad czymś.
+{68297}{68396}Chcę cię zapytać|o coś ważnego.
+{68412}{68542}Co byś powiedział na rozkręcenie|ze mną interesu z krewetkami?
+{68542}{68619}- Okej.|- Coś ci powiem, stary.
+{68619}{68676}Wszystko już sobie obmyśliłem.
+{68676}{68748}Tyle a tyle kilo krewetek|na spłacenie łodzi.
+{68748}{68829}Tyle a tyle na paliwo.|Będziemy mieszkać na łodzi.
+{68829}{68887}Więc czynsz z głowy.
+{68887}{68982}Będziemy pracować tylko we dwóch,|dzielić zyski po połowie.
+{68982}{69146}Mówię ci, stary, pół na pół.|I tyle krewetek, ile możesz zjeść.
+{69146}{69208}To świetny pomysł.
+{69208}{69287}To był świetny pomysł.
+{69359}{69441}Napisałem nawet|o tym do Jenny.
+{69441}{69532}Pisałem do niej|prawie każdego dnia.
+{69532}{69647}Opisywałem, co robię|i pytałem, co ona robi.
+{69647}{69755}Pisałem też,|że stale o niej myślę.
+{69755}{69852}I że z niecierpliwością czekam|na odpowiedź,
+{69852}{69923}Jeśli będzie miała czas napisać.
+{69923}{69994}Chciałem, żeby wiedziała,|że nic mi nie jest.
+{69994}{70140}I podpisywałem każdy list:|"Kocham, Forrest Gump".
+{70507}{70593}Pewnego razu,|łaziliśmy jak zwykle po dżungli,
+{70593}{70697}Aż tu naraz|ktoś wyłączył deszcz
+{70737}{70802}I wyszło słońce.
+{70842}{70914}Zasadzka! Kryć się!
+{71145}{71281}- Dawać tu ten automat!|- Forrest, w porządku?
+{71328}{71410}Silna Ręka, Silna Ręka!
+{71435}{71554}- Jeden z naszych dostał.|- Silna Ręka, tu Noga Lima 6!
+{71554}{71658}Przyjąłem!|Ostrzał z linii drzew.
+{71673}{71761}Karabiny i rakiety!|Nieźle nas sieką!
+{71761}{71878}- Zaciał się! Zaciał!|- Cholera jasna!
+{71905}{72017}Odblokować go|i walić w linię drzew!
+{72042}{72104}Trzymają nas w potrzasku.
+{72104}{72214}Wycofujemy się|do niebieskiej linii.
+{72214}{72266}Cofać się! Cofać się!
+{72266}{72360}- Forrest! Biegnij, Forrest!|- Cofać się!
+{72360}{72499}- Biegnij, stary! Biegnij!|- Wycofuj się, Gump!
+{72509}{72606}Zwiewaj, do cholery! Zwiewaj!
+{73204}{73333}Biegłem i biegłem,|tak jak Jenny mi kazała.
+{73378}{73561}Pobiegłem tak daleko, że wkrótce|zostałem sam, co nie było dobre.
+{73609}{73755}Bubba był moim przyjacielem.|Musiałem go odnaleźć.
+{73936}{74020}Gdzie ty się podziewasz?
+{74046}{74185}W drodze powrotnej po Bubba,|znalazłem rannego.
+{74189}{74251}Tex. Spokojnie.
+{74299}{74394}Nie mogłem go tam zostawić,|samego i przerażonego,
+{74394}{74530}Więc chwyciłem go na ręce|i wyniosłem stamtąd.
+{74845}{74916}Za każdym razem|jak wracałem po Bubba,
+{74916}{75047}Ktoś inny wołał:|"Pomóż mi, Forrest, pomóż!"
+{75175}{75242}Okej. Już dobrze.
+{75287}{75409}Bez paniki, stary.|Leż spokojnie. Nic ci nie będzie.
+{75409}{75521}Zacząłem się bać,|że nie znajdę Bubby.
+{75521}{75664}Wiem, że pozycja jest niebezpieczna!|Żółtki opanowały teren.
+{75664}{75736}Powtarzam, atak powietrzny|na podane pozycje.
+{75736}{75794}Por. Dan, Coleman nie żyje!
+{75794}{75904}Wiem! Wybili mój cały|pieprzony pluton!
+{75904}{76024}Cholera! Co ty robisz?|Zostaw mnie tutaj!
+{76024}{76111}Zjeżdżaj stąd.|Zostaw mnie tu! Zjeżdżaj!
+{76111}{76201}Boże, mówiłem,|żebyś mnie zostawił!
+{76201}{76263}Noga Lima 6, tu Silna Ręka.
+{76263}{76340}Wasze samoloty nadlatują.|Odbiór.
+{76340}{76416}Nagle poczułem, jakby coś|podskoczyło i ugryzło mnie.
+{76416}{76483}Coś mnie ugryzło!
+{76653}{76725}Cholerne sukinsyny!
+{76730}{76877}Nie mogę opuścić plutonu.|Miałeś mnie zostawić, Gump.
+{76877}{76982}Zapomnij o mnie. Ratuj siebie!|Słyszysz, co mówię?
+{76982}{77141}Cholera, połóż mnie na ziemi.|Zabieraj stąd swój tyłek.
+{77150}{77232}Nie prosiłem cię,|abyś mnie stamtąd wynosił!
+{77232}{77314}- Dokąd się wybierasz?|- Po Bubbę.
+{77314}{77365}Za chwilę będą tu|nasze samoloty.
+{77365}{77476}Spuszczą napalm na cały obszar.|Masz tu zostać! To rozkaz.
+{77476}{77550}Muszę znaleźć Bubbę!
+{78166}{78253}Nic mi nie jest, Forrest.
+{78437}{78544}- Bubba, nie.|- Nic mi nie będzie.
+{78733}{78798}Chodź. No chodź.
+{78916}{79003}Nic mi nie jest, Forrest.
+{79030}{79095}Nic mi nie jest.
+{79955}{80020}Dym. Wypuść dym.
+{80033}{80137}Gdybym wiedział, że to będzie|moja ostatnia rozmowa z Bubbą,
+{80137}{80221}Wymyśliłbym|coś lepszego do powiedzenia.
+{80221}{80315}- Hej, Bubba.|- Hej, Forrest.
+{80372}{80486}- Dlaczego to się dzieje?|- Dostałeś.
+{80544}{80654}I wtedy Bubba powiedział coś,|czego nigdy nie zapomnę.
+{80654}{80711}Chcę do domu.
+{80741}{80827}Bubba był moim|dobrym przyjacielem.
+{80827}{80942}Nawet ja wiedziałem, że tego|nie znajduje się na ulicy.
+{80942}{81022}Bubba miał być kapitanem|łodzi poławiającej krewetki,
+{81022}{81166}A zamiast tego umarł|na brzegu rzeki w Wietnamie.
+{81227}{81324}To już wszystko na ten temat.
+{81357}{81419}Oberwałeś, tak?
+{81469}{81608}- Oberwałem?|- To co podskoczyło i cię ugryzło.
+{81618}{81707}Zgadza się.|Prosto w tyłek.
+{81708}{81814}Mówili, że to rana warta|milion dolarów, ale...
+{81814}{81865}Armia musi trzymać tę forsę,
+{81865}{81958}Bo ja nie dostałem|z tego miliona ani centa.
+{81958}{82053}Bycie rannym w tyłek|ma tę zaletę,
+{82053}{82102}Że dostaje się lody.
+{82102}{82208}Miałem ich pod dostatkiem.|I wiecie, co?
+{82208}{82321}Mój dobry przyjaciel|leżał tuż przy mnie.
+{82321}{82438}Poruczniku Dan,|przyniosłem panu lody.
+{82438}{82515}Poruczniku Dan, lody!
+{82777}{82884}Czas na pańską kąpiel,|poruczniku.
+{83051}{83093}Harper!
+{83163}{83225}Cooper. Larson.
+{83276}{83336}Webster. Gump.
+{83373}{83477}- Gump!|- Ja jestem Forrest Gump.
+{83502}{83562}Kyle. Nichols.
+{83638}{83703}McMill. Johnson.
+{84144}{84252}Jak możesz oglądać to gówno?|Wyłącz to.
+{84252}{84321}Oglądacie wietnamską sieć|Amerykańskiej Armii.
+{84321}{84405}To jest Kanał 6, Sajgon.
+{84444}{84553}Dobry unik, Gump.|Umiesz w to grać?
+{84613}{84680}Chodź. Pokażę ci.
+{84711}{84788}Sekret polega na tym,
+{84821}{84930}Żeby nie spuszczać|oczu z piłeczki.
+{84992}{85032}Dobra.
+{85104}{85202}Gra w ping-ponga|przychodziła mi z łatwością.
+{85202}{85284}Widzisz? Każdy głupi to potrafi.
+{85284}{85356}Grałem bez przerwy.
+{85363}{85482}Nawet wtedy,|kiedy nie było z kim grać.
+{85696}{85815}Mówili, że czuję się|jak ryba w wodzie,
+{85822}{85865}Cokolwiek to oznacza.
+{85865}{85979}Nawet por. Dan|przychodził popatrzeć.
+{86058}{86227}Ping-pong tak mnie zaabsorbował,|że grałem nawet przez sen.
+{86357}{86473}Posłuchaj, co powiem.|Każdemu jest coś pisane.
+{86473}{86555}Nic nie dzieje się bez przyczyny.|Wszystko jest częścią planu!
+{86555}{86629}Powinienem był umrzeć|razem z moimi ludźmi,
+{86629}{86777}A teraz jestem pieprzoną kaleką,|wynaturzeniem bez nóg!
+{86777}{86855}Spójrz! Spójrz na mnie!|Widzisz to?
+{86855}{86976}Czy wiesz, co to znaczy|nie móc chodzić?
+{87016}{87095}Tak, poruczniku, wiem.
+{87149}{87280}Słyszałeś, co powiedziałem?|Odebrałeś mi moje przeznaczenie.
+{87280}{87384}Miałem umrzeć na polu walki,|z honorem!
+{87384}{87535}To było moje przeznaczenie,|a ty mnie go pozbawiłeś!
+{87699}{87788}Rozumiesz, co mówię, Gump?
+{87835}{87971}Nie tak miało być.|Miałem swoje przeznaczenie.
+{88058}{88165}Byłem porucznikiem|Danem Taylorem.
+{88298}{88370}Wciąż pan nim jest.
+{88921}{89030}Spójrz na mnie.|Co ja teraz pocznę?
+{89113}{89185}Co ja teraz pocznę?
+{89415}{89477}Szeregowy Gump?
+{89497}{89579}- Na rozkaz!|- Spocznij.
+{89602}{89694}Synu, zostałeś odznaczony|medalem za odwagę.
+{89694}{89830}Wie pan co, poruczniku Dan?|Chcą mi dać med...
+{89957}{90041}Gdzie jest|porucznik Dan?
+{90068}{90140}Wysłano go do domu.
+{90269}{90350}Dwa tygodnie później|opuściłem Wietnam.
+{90350}{90439}Ceremonię rozpoczęła|szczera przemowa prezydenta,
+{90439}{90534}W której nawoływał do dalszej|eskalacji wojny w Wietnamie.
+{90534}{90620}Prezydent Johnson wręczył|cztery medale za odwagę...
+{90620}{90735}Ameryka ma u ciebie|dług wdzięczności, synu.
+{90735}{90829}Podobno byłeś ranny.|Gdzie dostałeś?
+{90829}{90871}W tyłek,|panie prezydencie.
+{90871}{91020}To musiał być dopiero widok.|Chciałbym to zobaczyć.
+{91289}{91359}A niech cię, synu!
+{91404}{91486}Po ceremonii mama poszła|do hotelu odpocząć,
+{91486}{91583}A ja poszedłem obejrzeć|naszą stolicę.
+{91583}{91703}Hilary! Mam weteranów.|Co chcesz z nimi zrobić?
+{91703}{91765}Dobrze, że mama odpoczywała,
+{91765}{91837}Bo na ulicach|były tłumy ludzi,
+{91837}{91909}Oglądające posągi|i pomniki.
+{91909}{91963}Niektórzy|byli głośni i natarczywi.
+{91963}{92026}Dobra, za mną! Ruszać się!
+{92026}{92135}Musiałem wszędzie|stać w kolejkach.
+{92269}{92329}No już. Dalej!
+{92533}{92627}Dzięki, że to robisz, stary.
+{92650}{92687}Okej.
+{92703}{92754}Na scenie przemawiał|jakiś facet.
+{92754}{92895}Zamiast koszuli miał na sobie|amerykańską flagę.
+{92902}{92997}Używał dużo|przekleństw na "p".
+{92997}{93055}"P" to i "p" tamto.
+{93055}{93251}Nie wiem, dlaczego, ale po każdym|takim "przecinku" ludzie wiwatowali.
+{93340}{93415}Chodź, stary.|Właź na scenę.
+{93415}{93532}Chodź. Chodź. Tak, ty!|No już. Ruszaj!
+{93540}{93614}Dalej. Do mikrofonu.
+{93887}{93960}Opowiedz nam coś o wojnie.
+{93960}{94126}- O wojnie w Wietnamie?|- O wojnie w pieprzonym Wietnamie!
+{94693}{94729}Cóż...
+{94729}{94837}Mogłem powiedzieć tylko jedno|o wojnie w Wietnamie.
+{94837}{94981}Mogę powiedzieć tylko jedno|o wojnie w Wietnamie.
+{95028}{95088}W Wietnamie...
+{95337}{95386}Co ty, do cholery, ro...
+{95386}{95457}Strącę ci tę makówkę,|ty pieprzona świnio!
+{95457}{95538}Jezu Chryste!|Co oni z tym zrobili?
+{95538}{95605}Nie słyszymy cię!
+{95605}{95670}Nic nie słychać!
+{95685}{95732}Ten...|Ten! Daj mi to!
+{95732}{95789}Mów głośniej!
+{95796}{95843}Zrobione.
+{95843}{95974}To tyle, co mam na ten temat|do powiedzenia.
+{96093}{96221}To szczera prawda, stary.|Powiedziałeś wszystko.
+{96221}{96358}- Jak się nazywasz?|- Nazywam się Forrest. Forrest Gump.
+{96358}{96437}- Forrest Gump.|- Gump!
+{97365}{97490}To była najszczęśliwsza chwila|w moim życiu.
+{97490}{97620}Jenny i ja byliśmy znowu|jak marchewka z groszkiem.
+{97620}{97726}Oprowadziła mnie po obozie|i przedstawiła kilku znajomym.
+{97726}{97810}Opuść zasłonę! I zabieraj|swój biały tyłek od tego okna.
+{97810}{97869}Nie wiesz,|że mamy tu wojnę?
+{97869}{97963}- W porządku. To jeden z nas.|- Coś ci powiem o nas.
+{97963}{98018}Naszym celem jest ochrona|naszych czarnych przywódców
+{98018}{98068}Przed rasistowskimi świniami,
+{98068}{98117}Które pragną ich poniżać,
+{98117}{98243}Gwałcić nasze kobiety|i niszczyć nasze społeczności.
+{98243}{98347}- Kim jest zabójca niewiniątek?|- Przyjaciel, o, którym ci mówiłam.
+{98380}{98452}To jest Forrest Gump.|Forrest, to jest Wesley.
+{98452}{98514}Wesley i ja|mieszkaliśmy razem w Berkeley.
+{98514}{98586}Jest przewodniczącym studenckiego|ruchu na rzecz demokracji.
+{98586}{98658}Mamy udzielać|ochrony i pomocy
+{98658}{98741}Wszystkim, którzy jej potrzebują,|bo my, Czarne Pantery,
+{98741}{98802}Jesteśmy przeciwni|wojnie w Wietnamie.
+{98802}{98878}Jesteśmy przeciwni wojnom,|w, których nasi bracia
+{98878}{98925}Giną za kraj,|który ich nienawidzi.
+{98925}{99019}Przeciwstawiamy się wojnom,|w, których czarni walczą,
+{99019}{99112}Zostają poniżani i zabijani|we własnych społecznościach.
+{99112}{99233}Jesteśmy przeciwko|rasistowskim aktom...
+{99567}{99661}Forrest! Przestań! Przestań!
+{99866}{99930}Po co ja cię|tu przywiozłem?
+{99930}{100041}Powinienem był wiedzieć,|że dojdzie do jakiejś rozruby!
+{100041}{100135}Nie powinien cię bić, Jenny.
+{100226}{100288}Chodź, Forrest.
+{100394}{100513}Przepraszam,|że zepsułem wam przyjęcie.
+{100548}{100619}To był tylko|niekontrolowany odruch.
+{100619}{100721}Ja bym cię|nigdy nie skrzywdził.
+{100726}{100870}- Wiem, Forrest.|- Chciałem być twoim chłopakiem.
+{101135}{101274}Przystojniak z ciebie|w tym mundurze. Naprawdę.
+{101398}{101463}- Wiesz co?|- Co?
+{101518}{101639}Cieszę się, że jesteśmy|razem w stolicy.
+{101654}{101696}Ja też.
+{101700}{101817}Spacerowaliśmy całą noc -|rozmawiając.
+{101835}{101951}Jenny opowiedziała mi|o swoich podróżach i o tym,
+{101951}{102044}Jak znalazła sposób na poszerzenie|swoich horyzontów myślowych
+{102044}{102180}I naukę życia w harmonii.|To musi być gdzieś na zachodzie,
+{102180}{102272}Bo dotarła|aż do Kalifornii.
+{102300}{102400}Hej. Kto chce jechać|ze mną do San Francisco?
+{102400}{102474}- Ja pojadę.|- Klawo!
+{102476}{102590}To była wyjątkowa noc|dla nas obojga.
+{102617}{102692}Nie chciałem,|aby się skończyła.
+{102692}{102818}- Chciałbym, abyś została.|- Muszę jechać.
+{102837}{102949}Jenny?|Straciłem nad sobą panowanie.
+{102971}{103107}To przez tę wojnę|i tego kłamcę Johnsona, i...
+{103110}{103219}Nie skrzywdziłbym cię.|Wiesz o tym.
+{103245}{103315}Znasz moje zdanie.
+{103342}{103481}Powinnaś wrócić do domu|w Greenbow, w Alabamie!
+{103714}{103818}Prowadzimy innego rodzaju życia.
+{104050}{104112}Chcę ci to dać.
+{104242}{104321}Nie mogę tego przyjąć.
+{104338}{104457}Dostałem to, bo robiłem,|co mi kazałaś.
+{104491}{104668}- Jak możesz być dla mnie taki dobry?|- Jesteś moją dziewczyną.
+{104668}{104765}Zawsze będę twoją dziewczyną.
+{105660}{105799}I, tak po prostu,|znowu odeszła z mojego życia.
+{105838}{106011}Jeden mały krok dla człowieka,|a olbrzymi skok dla ludzkości.
+{106122}{106233}Myślałem, że wrócę do Wietnamu,|ale dowództwo postanowiło,
+{106233}{106337}Że skuteczniej będę zwalczał|komunistów grając w ping-ponga.
+{106337}{106429}W ramach Służb Specjalnych|jeździłem po kraju
+{106429}{106529}Zabawiając rannych weteranów|i ucząc ich gry w ping-ponga.
+{106529}{106569}Byłem tak dobry,
+{106569}{106675}Że włączono mnie|do reprezentacji USA.
+{106675}{106759}Byliśmy pierwszymi Amerykanami|na terytorium Chin
+{106759}{106807}Od jakiegoś miliona lat.
+{106807}{106879}Podobno pokój na świecie|zależał od nas,
+{106879}{106944}Ale ja tylko grałem|w ping-ponga.
+{106944}{107032}Po powrocie do domu|stałem się sławniejszy
+{107032}{107105}Od Kapitana Kangura|z telewizji.
+{107105}{107187}Oto i on. Forrest Gump.
+{107399}{107512}- Forrest Gump, John Lennon.|- Witaj w domu.
+{107512}{107616}Powiesz nam, jak było w Chinach?
+{107691}{107800}W Chinach ludzie|prawie niczego nie mają.
+{107800}{107857}Żadnych dóbr?
+{107902}{108016}W Chinach|nie chodzi się do kościoła.
+{108016}{108143}- I żadnej religii?|- Trudno to sobie wyobrazić.
+{108143}{108222}Trzeba tylko chcieć, Dick.
+{108222}{108304}Parę lat później,|ten miły młodzieniec z Anglii
+{108304}{108423}Wracał do domu zobaczyć synka|i podpisywał po drodze autografy.
+{108423}{108569}Bez żadnej istotnej przyczyny,|ktoś go zastrzelił.
+{108591}{108693}Dali ci|Kongresowy Medal Honoru.
+{108723}{108790}To porucznik Dan.
+{108831}{108877}Porucznik Dan!
+{108877}{108979}Dali ci|Kongresowy Medal Honoru.
+{109023}{109070}Tak było, poruczniku.
+{109070}{109205}Tobie. Imbecylowi, kretynowi,|który występuje w telewizji
+{109205}{109335}I ośmiesza się|przed całym pieprzonym krajem,
+{109335}{109405}Dano Medal Honoru.
+{109409}{109456}Tak jest.
+{109502}{109586}Cóż, po prostu cudownie!
+{109615}{109749}Mam tylko jedno do dodania.|Pieprzyć Amerykę.
+{109947}{109993}Poruczniku Dan!
+{109993}{110081}Por. Dan powiedział,|że mieszkał w hotelu.
+{110081}{110245}Ponieważ nie miał nóg, spędzał|cały czas ćwicząc ramiona.
+{110259}{110326}W prawo. W prawo!
+{110394}{110440}No szybciej!
+{110440}{110523}Co pan robi w Nowym Jorku,|poruczniku?
+{110523}{110610}Ciągnę z rządowego cycka.
+{110688}{110869}Ślepy jesteś? Przechodzę przez ulicę!|Wynoś się! Dalej, idziemy!
+{110965}{111087}Zostałem z porucznikiem Danem|na święta.
+{111164}{111315}Wracajcie szybko do domów.|Niech was Bóg błogosławi.
+{111326}{111406}Znalazłeś już Jezusa, Gump?
+{111406}{111518}Nie wiedziałem,|że miałem go szukać.
+{111690}{111857}Wszystkie kaleki z Administracji|Weteranów mówią tylko o tym.
+{111857}{111991}Jezus to i Jezus tamto.|Czy znalazłem Jezusa?
+{112030}{112114}Sprowadzili mi tu nawet księdza,|żeby ze mną porozmawiał.
+{112114}{112251}Powiedział, że Bóg słucha,|ale sam muszę sobie pomóc.
+{112251}{112322}Jeśli przyjmę Jezusa do serca,
+{112322}{112428}To będę się z nim przechadzał|po królestwie niebieskim.
+{112428}{112515}Słyszałeś, co powiedziałem?
+{112515}{112621}Przechadzał się z nim|po królestwie niebieskim.
+{112621}{112804}Pocałujcie mnie w mój kaleki zad.|Bóg słucha? Co za stek kłamstw.
+{112851}{112948}Ja pójdę do nieba,|poruczniku.
+{113099}{113139}Cóż...
+{113196}{113292}Zanim tam pójdziesz,|rusz tyłek i idź
+{113292}{113361}- Kupić więcej alkoholu.|- Tak jest.
+{113361}{113465}Odwiedzamy kolejną ulicę|w Nowym Jorku - nr 1 Astor Plaza.
+{113465}{113522}Stał tu kiedyś|hotel Astor...
+{113522}{113619}- Co takiego jest w Bayou La Batre?|- Łodzie do połowu krewetek.
+{113619}{113699}A komu zależy na łodziach|do połowu krewetek?
+{113699}{113796}Będę sobie musiał jedną kupić,|jak tylko dostanę pieniądze.
+{113796}{113834}W Wietnamie obiecałem Bubbie,
+{113834}{113915}Że po skończeniu wojny|zostaniemy partnerami.
+{113915}{114002}On miał być kapitanem,|a ja pierwszym oficerem.
+{114002}{114073}A ponieważ on nie żyje,|ja będę kapitanem.
+{114073}{114121}Kapitan łodzi|do połowu krewetek.
+{114121}{114243}Tak. Obietnica to obietnica,|poruczniku.
+{114250}{114320}Posłuchajcie tego!
+{114331}{114440}Szeregowy Gump będzie|kapitanem łodzi do połowu krewetek.
+{114440}{114535}Coś ci powiem. W dniu, w, którym|zostaniesz kapitanem tej łajby,
+{114535}{114624}Ja zostanę|twoim pierwszym oficerem.
+{114624}{114745}Jeśli zostaniesz kapitanem,|to ja zostanę astronautą!
+{114745}{114826}Danny, na co znowu narzekasz?|Co słychać?
+{114826}{114961}- Kim jest twój znajomy, Gorące Koła?|- Nazywam się Forrest. Forrest Gump.
+{114961}{115067}To jest Przebiegła Carla|i Długonoga Lenore.
+{115067}{115162}Gdzie się podziewałeś?|Dawno cię nie widziałyśmy.
+{115162}{115224}Szkoda, że cię tu nie było|w Boże Narodzenie.
+{115224}{115320}Tommy postawił wszystkim kolejkę|i po kanapce z indykiem.
+{115320}{115368}Miałem towarzystwo.
+{115368}{115462}Byłyśmy tam!|To Times Square.
+{115464}{115584}Uwielbiam Nowy Rok.|Można zacząć od nowa.
+{115584}{115662}Dostajesz kolejną szansę.
+{115662}{115734}To śmieszne, ale w trakcie|całej tej zabawy
+{115734}{115784}Zacząłem myśleć o Jenny,
+{115784}{115957}Zastanawiając się, jak spędzała|sylwestrową noc w Kalifornii.
+{116430}{116517}Dziewięć, osiem,|siedem, sześć
+{116517}{116681}Pięć, cztery, trzy, dwa, jeden!|Szczęśliwego Nowego Roku!
+{117078}{117192}Szczęśliwego|Nowego Roku, poruczniku!
+{117979}{118075}Zgłupiałeś czy co?|O co ci chodzi?
+{118075}{118196}O co mu chodzi? Straciłeś|na wojnie fiuta czy co?
+{118196}{118267}- Czy twój koleś jest głupi?|- Coś ty powiedziała?
+{118267}{118325}Zapytałam,|czy jest głupi.
+{118325}{118396}- Nie nazywaj go głupcem!|- Hej, nie popychaj jej!
+{118396}{118469}Zamknij się!|Masz go tak nie nazywać!
+{118469}{118527}Czego się tak wkurzasz?
+{118527}{118614}Zbierać swoje pieprzone ciuchy|i wynosić się stąd w cholerę!
+{118614}{118692}Powinni cię pokazywać w cyrku.|Jesteś żałosny!
+{118692}{118729}Wynoście się stąd!
+{118729}{118821}- Debil!|- Frajer. Dziwoląg!
+{118922}{118969}Och, nie.
+{119560}{119666}Przepraszam za zrujnowanie panu|imprezy sylwestrowej.
+{119666}{119750}Smakowała jak papierosy.
+{120111}{120228}Porucznik Dan zrozumiał,|że pewnych rzeczy nie da się zmienić.
+{120228}{120301}Nie chciał,|aby nazywano go kaleką,
+{120301}{120450}Tak jak ja nie chciałem,|aby nazywano mnie głupcem.
+{120480}{120582}Szczęśliwego Nowego Roku, Gump.
+{120658}{120720}Nasza drużyna ping-pongowa|była dziś u prezydenta Nixona...
+{120720}{120806}I wie pan co?|Parę miesięcy później
+{120806}{120912}Zaproszono mnie razem z drużyną|ping-pongową do Białego Domu.
+{120912}{120986}Więc poszedłem, znowu.
+{120986}{121074}I poznałem|prezydenta USA, znowu.
+{121074}{121176}Tyle, że tym razem nie mieliśmy|ekskluzywnego hotelu.
+{121176}{121262}Podoba ci się w naszej stolicy,|młody człowieku?
+{121262}{121340}- Gdzie was zakwaterowano?|- W hotelu Ebbott.
+{121340}{121403}Och, nie.|Znam lepszy hotel.
+{121403}{121509}Jest nowy. Bardzo nowoczesny.|Moi ludzie się tym zajmą.
+{121509}{121574}- Bezpieczeństwo.|- Dobry wieczór.
+{121574}{121704}Powinien pan wysłać ekipę|do biura po drugiej stronie ulicy.
+{121704}{121813}Wywaliło chyba bezpieczniki|i szukają skrzynki,
+{121813}{121886}Bo światło ich latarek|nie daje mi zasnąć.
+{121886}{122017}- Dobrze. Sprawdzę to.|- Dziękuję. Dobranoc.
+{122039}{122125}Dlatego,|z dniem jutrzejszym,
+{122125}{122231}Zrzekam się prezydentury|na rzecz wiceprezydenta Forda,
+{122231}{122407}Który zostanie zaprzysiężony|w tym gabinecie jutro w południe.
+{122614}{122687}- Forrest Gump.|- Na rozkaz!
+{122687}{122869}Spocznij. Mam tu twoje zwolnienie.|Twoja służba dobiegła końca, synu.
+{122869}{122951}Czy to oznacza,|że nie mogę grać w ping-ponga?
+{122951}{123011}Nie dla armii.
+{123046}{123207}I tak po prostu, moja służba|w armii została zakończona.
+{123286}{123370}Więc pojechałem do domu.
+{123856}{123968}- Jestem w domu, mamo.|- Wiem. Wiem.
+{123986}{124024}Louise, przyjechał.
+{124024}{124124}Przed moim powrotem|mamę odwiedziło wiele ludzi.
+{124124}{124190}Było tu wiele ludzi.
+{124190}{124258}Każdy chce,|abyś używał ich rzeczy.
+{124258}{124349}Jeden z nich zostawił czek|na $25000,
+{124349}{124442}Jeśli zgodzisz się powiedzieć,|że lubisz grać ich rakietką.
+{124442}{124502}Używam tylko swojej rakietki.
+{124502}{124555}- Cześć, Louise.|- Hej, Forrest.
+{124555}{124629}Wiem, ale to $25000.
+{124648}{124730}Pomyślałam, że może|mógłbyś ją trochę potrzymać
+{124730}{124792}I przyzwyczaić się do niej.
+{124792}{124904}Mama miała rację.|Śmieszne, jak to się w życiu układa.
+{124904}{124954}Nie pobyłem w domu długo,
+{124954}{125075}Bo złożyłem obietnicę Bubbie.|Staram się dotrzymywać słowa,
+{125075}{125170}Więc pojechałem do Bayou La Batre,|aby poznać jego rodzinę.
+{125170}{125279}Odbiło ci, czy jesteś|po prostu głupi?
+{125279}{125381}- Poznasz głupiego po czynach jego.|- Może i tak.
+{125381}{125520}Poszedłem też, oczywiście,|odwiedzić grób Bubby.
+{125520}{125622}Hej, Bubba. To ja,|Forrest Gump.
+{125663}{125804}Pamiętam, co mówiłeś|i wszystko już obmyśliłem.
+{125825}{125909}Wkładam w to $24562,47 -
+{126011}{126095}Które mi zostały po strzyżeniu,|kupieniu garnituru,
+{126095}{126168}Zabraniu mamy|na wystawną kolację,
+{126168}{126239}Kupieniu biletu na autobus|i trzech butelek picia.
+{126239}{126349}Powiedz mi jedno.|Jesteś głupi czy co?
+{126349}{126413}Poznasz głupiego|po czynach jego.
+{126413}{126460}Tyle zostało z czeku|za powiedzenie:
+{126460}{126557}"Kiedy byłem w Chinach|z narodową drużyną,
+{126557}{126604}Uwielbiałem grać|w ping-ponga
+{126604}{126658}Rakietką Flex-o-lite",
+{126658}{126709}Co, jak wiadomo,|nie jest prawdą,
+{126709}{126809}Ale mama mówi, że małe kłamstewko|nikomu nie zaszkodzi.
+{126809}{126912}Więc przeznaczam to|na paliwo, liny,
+{126912}{127001}Na nowe sieci i nową łódź.
+{127522}{127604}Bubba przekazał mi całą swoją wiedzę|na temat połowu krewetek,
+{127604}{127700}Ale jednego|dowiedziałem się sam.
+{127700}{127799}Łowienie krewetek jest trudne.
+{127810}{127876}Złowiłem tylko pięć.
+{127876}{127997}Jeszcze ze dwie|i zrobisz sobie sałatkę.
+{128001}{128074}Wiesz już,|jakie nadasz jej imię?
+{128074}{128145}Łódź bez imienia|przynosi pecha.
+{128145}{128203}Nigdy przedtem|tego nie robiłem,
+{128203}{128326}Ale było tylko jedno imię,|które przychodziło mi do głowy,
+{128326}{128425}Najpiękniejsze imię|na świecie.
+{128928}{129069}Dawno z Jenny nie rozmawiałem,|ale często o niej myślałem.
+{129069}{129181}Miałem nadzieję,|że była szczęśliwa.
+{131684}{131778}Myślałem o niej bez przerwy.
+{132937}{133036}Poruczniku Dan,|co pan tu robi?
+{133052}{133129}Pomyślałem, że wypróbuję|swoje morskie nogi.
+{133129}{133204}Pan nie ma nóg,|poruczniku Dan.
+{133204}{133318}Tak, wiem.|Napisałeś do mnie, idioto.
+{133341}{133502}Proszę. Kapitan Forrest Gump.|Musiałem to zobaczyć na własne oczy.
+{133502}{133647}Tak jak mówiłem, jak zostaniesz|kapitanem łodzi do połowu krewetek,
+{133647}{133732}To ja będę twoim oficerem.|No więc jestem.
+{133732}{133807}- Dotrzymałem słowa.|- Dobra.
+{133807}{133905}Ale nie myśl sobie, że będę|ci mówił "Panie kapitanie".
+{133905}{133952}Nie będę.
+{134151}{134208}To moja łódź.
+{134263}{134362}Czuję, że jak popłyniemy|na wschód,
+{134362}{134484}To znajdziemy krewetki.|Więc skręć w lewo.
+{134484}{134541}- W lewo!|- W którą stronę?
+{134541}{134596}Tam! Są tam!
+{134604}{134708}- Łap za ster i w lewo.|- Dobrze.
+{134753}{134862}Gump, co ty robisz?|W lewo! W lewo!
+{134903}{135023}To tam znajdziemy|nasze krewetki, chłopcze!
+{135023}{135100}To tam je znajdziemy.
+{135373}{135469}- Wciąż nic, poruczniku Dan.|- Pomyliłem się.
+{135469}{135539}Jak je znajdziemy?
+{135541}{135640}Może trzeba się|o nie pomodlić.
+{135785}{135882}Chodziłem do kościoła|co niedzielę.
+{135882}{136065}Por. Dan też czasem przychodził,|ale modlenie się zostawiał mnie.
+{136372}{136502}- Nie ma krewetek.|- No i gdzie jest ten twój Bóg?
+{136502}{136648}Jak tylko por. Dan to powiedział,|Bóg się objawił.
+{137029}{137091}Nie uda ci się zatopić tej łodzi!
+{137091}{137225}Byłem przerażony,|ale por. Dan jakby oszalał.
+{137240}{137280}Dalej!
+{137345}{137474}I to ma być sztorm?|No chodź, ty sukinsynu!
+{137530}{137686}Czas na ostateczne starcie!|Ty i ja! Czekam! No chodź!
+{137764}{137846}Nie zatopisz tej łodzi!
+{137909}{137960}Przez tę okolicę przeszedł|wczoraj huragan Carmen,
+{137960}{138014}Niszcząc niemal wszystko|na swej drodze.
+{138014}{138086}Tak jak i w innych miastach|na całym wybrzeżu,
+{138086}{138149}Przemysł połowu krewetek|w Bayou La Batre
+{138149}{138258}Został za sprawą Carmen|zrujnowany.
+{138276}{138316}Z tego, co zaobserwowałem,
+{138316}{138410}Tylko jedna łódź|przetrwała ten sztorm.
+{138410}{138471}Louise. Louise, to Forrest.
+{138471}{138583}Odtąd łowienie krewetek było łatwe.
+{138684}{138758}Ludzie wciąż potrzebowali|krewetki na sałatki,
+{138758}{138864}Na grilla, a ponieważ|ocalała jedynie nasza łódź,
+{138864}{138995}To kupowali je od Bubba-Gump.|Mieliśmy kilkanaście łodzi.
+{138995}{139047}12 o imieniu Jenny,|duży magazyn.
+{139047}{139152}Mieliśmy nawet czapki|z napisem "Bubba-Gump".
+{139152}{139217}Krewetki Bubba-Gump.|Dobrze znana marka.
+{139217}{139261}Chwileczkę, chłopcze.
+{139261}{139376}Ty miałbyś być właścicielem|korporacji Krewetki Bubba-Gump?
+{139376}{139448}Tak. Mamy więcej pieniędzy|niż Davy Crockett.
+{139448}{139626}Różne rzeczy w swoim życiu słyszałem,|ale to przebija wszystko.
+{139636}{139728}Siedzieliśmy|obok milionera.
+{139791}{139905}Uważam, że to była|wspaniała historia
+{139916}{140041}I tak dobrze ją opowiadałeś,|z takim entuzjazmem.
+{140041}{140139}Chciałaby pani zobaczyć,|jak wygląda por. Dan?
+{140139}{140181}Bardzo.
+{140298}{140358}To właśnie on.
+{140392}{140486}Powiem pani coś|o por. Danie.
+{140623}{140769}Nigdy ci nie podziękowałem|za uratowanie mi życia.
+{141341}{141507}Nie przyznał się do tego,|ale chyba pogodził się z Bogiem.
+{141680}{141726}Już po raz drugi|w ciągu 17 dni
+{141726}{141814}Prezydent Ford uniknał|próby zamachu stanu.
+{141814}{141927}- Baza do Jenny 1.|- Tu Jenny 1. Mów, Margo.
+{141927}{141975}Jest telefon do Forresta.
+{141975}{142037}Niech zadzwonią później.
+{142037}{142196}- Forrest jest niedysponowany.|- Jego mama zachorowała.
+{142595}{142679}- Gdzie mama?|- Na górze.
+{142720}{142774}Witaj, Forrest.
+{142774}{142861}- Przyjdę jutro.|- Dobrze.
+{143015}{143129}No i proszę,|jak cię wyprostowaliśmy.
+{143374}{143476}- Co się stało, mamo?|- Umieram.
+{143535}{143619}Chodź, usiądź obok mnie.
+{143931}{144095}- Dlaczego umierasz, mamo?|- Nadszedł po prostu mój czas.
+{144135}{144234}Niczego się nie bój, kochanie.
+{144278}{144424}Śmierć jest częścią życia.|Taka jest kolej rzeczy.
+{144431}{144560}Mnie było w życiu pisane|zostać twoją mamą.
+{144560}{144674}- Zrobiłam, co mogłam.|- Dobrze ci poszło.
+{144674}{144823}Wierzę, że każdy z nas|tworzy własne przeznaczenie.
+{144827}{144998}Trzeba zrobić jak najlepszy użytego|z tego, co nam daje Bóg.
+{145020}{145085}A jakie jest|moje przeznaczenie?
+{145085}{145162}Sam musisz je odkryć.
+{146224}{145297}Ż ycie jest|jak pudełko czekoladek.
+{145297}{145368}Nigdy nie wiadomo,|na co się trafi.
+{145368}{145472}Mama potrafiła wyjaśniać rzeczy tak,|że je rozumiałem.
+{145472}{145561}Będę za tobą tęsknić, Forrest.
+{145561}{145666}Miała raka|i umarła pewnego wtorku.
+{145666}{145807}Kupiłem jej nowy kapelusz|z małymi kwiatuszkami.
+{145853}{145984}To tyle, co mam|na ten temat do powiedzenia.
+{146088}{146159}Nie czekała pani|na siódemkę?
+{146159}{146251}Wkrótce przyjedzie|następna.
+{146305}{146414}Ponieważ byłem gwiazdą futbolu|i bohaterem wojennym,
+{146414}{146487}Słynną osobistością i kapitanem|łodzi do połowu krewetek,
+{146487}{146582}I absolwentem college'u,|rada miejska Greenbow
+{146582}{146686}Postanowiła zaoferować mi|świetną posadę.
+{146686}{146765}Więc nie wróciłem już|do pracy z por. Danem,
+{146765}{146834}Ale powierzyłem mu pieczę|nad udziałami Bubba-Gump.
+{146834}{146942}Zainwestował je|w jakąś firmę owocową.
+{146942}{147032}Zadzwonił mówiąc, że nie musimy się|już martwić o pieniądze,
+{147032}{147181}A ja na to: "To dobrze.|Jedno zmartwienie z głowy".
+{147184}{147285}Mama mawiała, że człowiekowi|nie potrzeba aż tak dużo,
+{147285}{147368}Reszta jest tylko na pokaz.
+{147368}{147507}Więc dałem sporą sumkę|na kościół Ewangelistów.
+{147519}{147636}I kolejną na szpital|w Bayou La Batre.
+{147676}{147818}I chociaż Bubba już nie żył,|a por. Dan mówił, że mi odbiło,
+{147818}{147917}Dałem mamie Bubby jego udział.
+{147966}{148008}Wie pani co?
+{148008}{148106}Nie musiała już więcej pracować|w niczyich kuchniach.
+{148106}{148168}Pachnie cudownie.
+{148168}{148298}A ponieważ byłem multimilionerem|i kochałem swoją robotę,
+{148298}{148382}Ścinałem trawę za darmo.
+{148414}{148501}Ale w nocy,|kiedy nie było co robić,
+{148501}{148623}A cały dom stał pusty,|myślałem o Jenny.
+{150155}{150229}Aż w końcu przyszła.
+{151030}{151134}- Cześć, Forrest.|- Cześć, Jenny.
+{151378}{151454}Jenny wróciła i została ze mną.
+{151454}{151572}Może dlatego,|że nie miała gdzie pójść,
+{151572}{151669}A może dlatego,|że była bardzo zmęczona,
+{151669}{151793}Bo spała i spała,|jakby nie spała od lat.
+{151797}{151852}Wspaniale było|mieć ją w domu.
+{151852}{152011}Chodziliśmy codziennie na spacery.|Ja nadawałem jak nakręcony,
+{152011}{152082}A ona słuchała o ping-pongu|i o łowieniu krewetek,
+{152082}{152179}I o odejściu mamy do nieba.|Buzia mi się nie zamykała.
+{152179}{152293}Jenny milczała|przez większość czasu.
+{153210}{153294}Jak mogłeś mi to zrobić?
+{154169}{154276}Czasami brakuje|po prostu kamieni.
+{154280}{154423}Nie byłem pewny, dlaczego wróciła,|ale nie dbałem o to.
+{154423}{154571}Było jak dawniej. Byliśmy|znowu jak marchewka z groszkiem.
+{154571}{154712}Zanosiłem jej codziennie|do pokoju ładne kwiaty,
+{154724}{154835}A ona podarowała mi|najlepszy prezent na świecie.
+{154835}{154924}Są specjalnie do biegania.
+{154973}{155080}Pokazała mi nawet,|jak się tańczy.
+{155286}{155390}Jenny i ja|byliśmy jak rodzina...
+{155453}{155589}I to były|najszczęśliwsze chwile w moim życiu.
+{156115}{156229}Wyłączyć telewizor?|Idę się położyć.
+{156473}{156543}Wyjdziesz za mnie?
+{156629}{156703}Byłbym dobrym mężem.
+{156773}{156810}Wiem.
+{156867}{156956}Ale nie wyjdziesz za mnie.
+{156967}{157061}Nie chcesz mieć takiej żony.
+{157109}{157198}Dlaczego mnie nie kochasz?
+{157292}{157416}Nie jestem mądry,|ale wiem, co to miłość.
+{158411}{158485}Forrest, kocham cię.
+{159731}{159840}- Dokąd to uciekamy?|- Nie uciekam.
+{162034}{162178}Tego dnia, tak bez przyczyny,|postanowiłem trochę pobiegać.
+{162178}{162271}Pobiegłem do końca drogi,|a kiedy tam dotarłem,
+{162271}{162337}Pomyślałem, że pobiegnę|na koniec miasta.
+{162337}{162407}Prezydent Carter,|wyczerpany falą gorąca...
+{162407}{162452}A kiedy tam dotarłem,
+{162452}{162554}Pomyślałem sobie, że przebiegnę|przez hrabstwo Greenbow.
+{162554}{162616}A skoro dotarłem aż tak daleko,
+{162616}{162710}Dlaczego miałbym nie przebiec|przez cały stan Alabama?
+{162710}{162800}Tak właśnie zrobiłem.|Przebiegłem przez Alabamę.
+{162800}{162906}Bez żadnego powodu.|Po prostu biegłem dalej.
+{162906}{162980}Dobiegłem do oceanu.
+{163089}{163190}Pomyślałem, że skoro|przebiegłem taki szmat drogi,
+{163190}{163329}To równie dobrze mógłbym|zawrócić i biec dalej.
+{163351}{163507}Kiedy dotarłem do drugiego oceanu|pomyślałem, że skoro jestem aż tutaj,
+{163507}{163595}To mógłbym równie dobrze|zawrócić i biec z powrotem.
+{163595}{163729}Kiedy się zmęczyłem, szedłem spać.|Kiedy zgłodniałem, jadłem.
+{163729}{163877}Kiedy musiałem pójść do...|No wie pani...|To szedłem.
+{163877}{163979}- Więc po prostu biegłeś.|- Tak.
+{164866}{165009}Dużo myślałem o mamie,|Bubbie i poruczniku Danie.
+{165009}{165111}Ale najwięcej myślałem o Jenny.
+{165198}{165289}Minęły już dwa lata|odkąd Forrest Gump,
+{165289}{165355}Ogrodnik z Greenbow|w Alabamie,
+{165355}{165463}Rozpoczał bieg przez Amerykę.|Reportaż Charlesa Coopera.
+{165463}{165543}Po raz czwarty od rozpoczęcia|swej podróży przez Amerykę,
+{165543}{165682}Forrest Gump przekroczy dziś|rzekę Mississippi.
+{165692}{165779}- A niech mnie. Forrest?|- Jaki jest cel tego biegu?
+{165779}{165866}- Robisz to dla pokoju na świecie?|- Dla bezdomnych?
+{165866}{165938}- Walczysz o prawa dla kobiet?|- O środowisko?
+{165938}{166058}Nie mogli uwierzyć, że ktoś|biegał tak długo bez powodu.
+{166058}{166163}- Dlaczego to robisz?|- Miałem ochotę pobiegać.
+{166163}{166231}Miałem ochotę pobiegać.
+{166231}{166313}To pan.|To naprawdę pan.
+{166316}{166450}Z jakiegoś powodu to, co robiłem,|miało dla ludzi sens.
+{166450}{166510}Poczułem, jakby w głowie|włączył mi się alarm.
+{166510}{166599}Powiedziałem sobie:|"Ten facet wie, czego chce".
+{166599}{166695}"Oto ktoś, kto ma odpowiedź".|Pójdę za panem na koniec świata.
+{166695}{166779}Więc miałem towarzystwo.
+{166787}{166953}A potem zaczęło się do nas|przyłączać coraz więcej ludzi.
+{166984}{167120}Usłyszałem później,|że dałem ludziom nadzieję.
+{167142}{167193}No nie wiem,
+{167193}{167304}Ale niektórzy z nich|prosili mnie o pomoc.
+{167304}{167414}Mógłbyś mi pomóc?|Robię w naklejkach na zderzaki.
+{167414}{167500}Potrzebny mi dobry slogan,|a ty jesteś źródłem inspiracji,
+{167500}{167563}Więc pomyślałem,|że mógłbyś mi pomóc...
+{167563}{167693}Hej, stary! Wdepnąłeś właśnie|w górę psiego gówna!
+{167693}{167780}- Zdarza się.|- Co, gówno?
+{167792}{167837}Czasami.
+{167880}{167966}Parę lat później usłyszałem,|że ten facet wymyślił
+{167966}{168074}Slogan, na, którym zarobił|dużo pieniędzy.
+{168074}{168131}Innym razem|podbiega do mnie
+{168131}{168199}Facet, który zbankrutował|na T-shirtach.
+{168199}{168281}Chciał na nich umieścić|moją twarz,
+{168281}{168377}Ale nie umiał dobrze rysować|i nie miał ze sobą aparatu.
+{168377}{168538}Proszę, wytrzyj się tą.|I tak nikt nie lubi tego koloru.
+{168561}{168616}Miłego dnia.
+{168648}{168732}Parę lat później|dowiedziałem się, że facet
+{168732}{168887}Wpadł na pomysł na T-shirta.|Zbił na interesie kokosy.
+{168887}{169007}Tak jak mówiłem,|miałem ze sobą dużą grupę.
+{169007}{169175}Mama mawiała: "Aby ruszyć na przód,|trzeba zapomnieć o przeszłości".
+{169175}{169304}To chyba właśnie o to|chodziło w moim bieganiu.
+{169304}{169473}Biegałem przez trzy lata,|dwa miesiące, 14 dni i 16 godzin.
+{169832}{169939}Cicho. Cicho.|Chce coś powiedzieć.
+{170167}{170249}Jestem nieźle zmęczony.
+{170280}{170354}Wrócę chyba do domu.
+{170757}{170836}I co mamy teraz robić?
+{170848}{170969}I, tak po prostu,|moje bieganie się skończyło.
+{170969}{171063}Wróciłem do domu,|do Alabamy.
+{171065}{171217}O 2.25 po południu,|kiedy prezydent Reagan wychodził...
+{171217}{171315}Nieznany zabójca oddał|pięć lub sześć strzałów.
+{171315}{171372}Postrzelił prezydenta|w klatkę...
+{171372}{171418}Odebrałam pocztę.
+{171418}{171531}Aż tu, zupełnie nieoczekiwanie,|dostałem list od Jenny.
+{171531}{171625}Chciała, abym spotkał się z nią|w Savannach.
+{171625}{171695}Dlatego tu jestem.
+{171707}{171759}Widziała mnie w telewizji.
+{171759}{171867}Mam wsiąść w dziewiątkę|jadącą do Richmond Street
+{171867}{172034}I przejść jedną przecznicę w lewo|do 1947 Henry Street, mieszkania 4.
+{172034}{172120}Nie musisz czekać na autobus.
+{172120}{172264}Henry Street jest jakieś|pięć lub sześć przecznic stąd.
+{172264}{172358}- W dół ulicy?|- W dół ulicy.
+{172379}{172473}Miło się z panią rozmawiało.
+{172493}{172567}Ż yczę ci szczęścia!
+{172825}{172940}- Co słychać? Wejdź! Wejdź!|- Dostałem twój list.
+{172940}{173086}- Nie wiedziałam, czy cię zastanie.|- To twój dom?
+{173086}{173162}Tak. Mam bałagan.|Dopiero co skończyłam pracę.
+{173162}{173261}Jest ładny. Masz klimatyzację.
+{173401}{173493}- Dziękuję.|- Zjadłem kilka.
+{173531}{173667}Prowadziłam album|z wycinkami z gazet o tobie.
+{173722}{173772}Kazałam ci biegać.
+{173772}{173827}Byłam kochanką|Forresta Gumpa
+{173827}{173911}Biegałem długo i daleko.
+{174000}{174050}I tutaj...
+{174192}{174318}Posłuchaj, nie wiem,|jak ci to powiedzieć.
+{174335}{174473}Chciałam przeprosić za ból,|który ci sprawiłam,
+{174473}{174614}Bo przez długi czas|nie mogłam się odnaleźć i...
+{174655}{174720}- Cześć.|- Witaj.
+{174725}{174803}- To mój stary znajomy z Alabamy.|- Miło mi.
+{174803}{174888}W przyszłym tygodniu|zmienia mi się rozkład, więc...
+{174888}{174945}Nie ma sprawy.|Muszę lecieć.
+{174945}{175002}Okej. Dzięki.
+{175032}{175127}To jest mój przyjaciel - pan Gump.|Przywitasz się?
+{175127}{175188}- Dzień dobry, panie Gump.|- Cześć.
+{175188}{175338}- Mogę pooglądać telewizję?|- Tak. Tylko nie za głośno.
+{175338}{175450}- Jesteś mamą, Jenny.|- Jestem mamą.
+{175495}{175604}- Ma na imię Forrest.|- Tak jak ja!
+{175642}{175798}- Ma imię po ojcu.|- Jego tato też ma na imię Forrest?
+{175798}{175875}Ty jesteś jego ojcem.
+{176257}{176373}Forrest, spójrz na mnie.|Spójrz na mnie.
+{176373}{176519}Nie musisz niczego robić.|To nie twoja wina. Okej?
+{176625}{176700}Czyż nie jest piękny?
+{176700}{176817}Nigdy nie widziałem|nic piękniejszego.
+{176869}{176909}Ale...
+{176988}{177043}Czy jest mądry?|Czy może...
+{177043}{177209}Jest bardzo mądry. Jest jednym|z najzdolniejszych uczniów.
+{177356}{177448}Tak. Idź z nim porozmawiać.
+{177644}{177748}- Co oglądasz?|- Ulicę Sezamkową.
+{178268}{178347}Forrest, jestem chora.
+{178436}{178522}Co, masz kaszel|z powodu przeziębienia?
+{178522}{178651}To jakiś wirus. Lekarze|nie wiedzą, co to jest
+{178651}{178748}I nie mogą|nic na to poradzić.
+{178843}{178942}Możesz pojechać|ze mną do domu.
+{178963}{179094}Ty i mały Forrest|możecie zamieszkać ze mną.
+{179169}{179253}Będę się tobą opiekował.
+{179279}{179373}Ożenisz się ze mną, Forrest?
+{179473}{179515}Dobrze.
+{179548}{179625}Proszę zająć miejsca.
+{179668}{179750}Forrest? Czas zaczynać.
+{180191}{180263}Cześć. Twój krawat.
+{180582}{180642}Porucznik Dan.
+{180991}{181097}- Porucznik Dan.|- Cześć, Forrest.
+{181097}{181191}Ma pan nowe nogi. Nowe nogi!
+{181220}{181313}Tak. Mam nowe nowi.|Zrobione na zamówienie.
+{181313}{181474}Stop tytanu. Używają tego|do budowy statków kosmicznych.
+{181498}{181558}Magiczne nogi.
+{181591}{181680}To moja narzeczona, Susan.
+{181758}{181867}- Poruczniku Dan.|- Cześć, Forrest.
+{181874}{182015}- To jest moja Jenny.|- Miło cię w końcu poznać.
+{182300}{182436}Czy ty, Forrest, bierzesz Jenny|za swoją żonę?
+{182439}{182578}Czy ty, Jenny, bierzesz|Forresta za swego męża?
+{182578}{182667}Ogłaszam was mężem i żoną.
+{183398}{183458}- Hej.|- Cześć.
+{183926}{184013}Czy bałeś się|w Wietnamie?
+{184021}{184108}Tak. To znaczy, nie wiem.
+{184157}{184330}Czasami przestawało padać|i na niebie pokazywały się gwiazdy.
+{184357}{184429}Wtedy było pięknie.
+{184485}{184595}Tak jak tuż|przed zachodem słońca w zatoce.
+{184595}{184697}Na wodzie były|miliony iskierek.
+{184752}{184844}Albo jak to górskie jezioro.|Było takie czyste.
+{184844}{184990}Wydawało się, że były dwa nieba,|jedno nad drugim.
+{185012}{185121}I jak pustynia|o wschodzie słońca -
+{185166}{185290}Nie widać końca nieba|ani początku ziemi.
+{185355}{185417}To było piękne.
+{185511}{185623}Szkoda, że mnie tam|z tobą nie było.
+{185659}{185699}Byłaś.
+{185950}{186002}Kocham cię.
+{186090}{186179}Umarłaś w sobotni poranek.
+{186210}{186349}Kazałem pochować cię tutaj,|pod naszym drzewem.
+{186416}{186547}Kazałem też zrównać z ziemią|dom twego ojca.
+{186645}{186774}Mama mawiała, że śmierć|jest częścią życia.
+{186896}{186990}Chciałbym, aby tak nie było.
+{187020}{187129}Mały Forrest świetnie sobie radzi.
+{187193}{187279}Niedługo zacznie znowu szkołę.
+{187279}{187423}Gotuję mu codziennie|śniadania, obiady i kolacje.
+{187427}{187568}Pilnuję, aby czesał włosy|i mył codziennie zęby.
+{187639}{187778}Uczę go grać w ping-ponga.|Jest naprawdę dobry.
+{187788}{187858}Forrest, teraz ty.
+{187951}{188028}Dużo razem wędkujemy.
+{188084}{188220}A wieczorami czytamy książki.|Jest taki mądry.
+{188233}{188340}Byłabyś z niego dumna. Ja jestem.
+{188387}{188469}Napisał do ciebie list.
+{188498}{188551}Ale nie wolno mi go czytać.
+{188551}{188640}Więc zostawię ci go tutaj.
+{189193}{189339}Nie wiem, kto miał rację -|mama czy porucznik Dan.
+{189361}{189505}Nie wiem, czy każdy z nas|ma swoje przeznaczenie,
+{189528}{189662}Czy może wszystko|dzieje się przez przypadek.
+{189797}{189889}Myślę, że i jedno i drugie.
+{190032}{190183}Może i jedno i drugie|dzieje się w tym samym czasie.
+{190247}{190339}Ale tęsknię za tobą, Jenny.
+{190448}{190577}Jeśli czegokolwiek potrzebujesz,|jestem tu.
+{191398}{191477}To twój autobus. Okej.
+{191540}{191585}Znam to.
+{191590}{191659}To na zajęcia w szkole.|Pokażę ją dzieciom,
+{191659}{191727}Bo babcia|czytała ją tobie.
+{191727}{191806}Moja ulubiona książka.
+{191948}{192010}Czas na ciebie.
+{192171}{192211}Nie...
+{192258}{192385}- Chcę ci powiedzieć, że cię kocham.|- Ja ciebie też, tato.
+{192385}{192472}Będę tu na ciebie czekał.
+{192570}{192678}Wiesz, że to autobus szkolny,|prawda?
+{192678}{192851}Oczywiście. Pani to Dorothy Harris,|a ja jestem Forrest Gump.
+{192891}{193291}Downloaded From www.AllSubs.org
+

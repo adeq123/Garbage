@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/AGH1"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Bank"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Calculator"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/crossword"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/debug"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/FuelTank"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/GUI_tutorial"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/HanoiTower"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/hello world"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/JavaCore"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/lab2cw1"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/lab3c1"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/lab4"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/lab5"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/LiczbyPierwsze"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Login"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/macierze"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/MagicSquareChecker"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Pesel"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/punkt"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Refactoring"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/rockPaperScissors"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/SquareGrid"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/TEST"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/week4"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
