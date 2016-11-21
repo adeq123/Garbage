@@ -3,7 +3,7 @@ package javaIn;
 import java.io.*;
  
 public class JIn {
-	
+	int a = 0;
     public static String getString() {
 	  String text = null;
 	  try{
