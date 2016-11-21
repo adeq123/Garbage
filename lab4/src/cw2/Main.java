@@ -11,11 +11,10 @@ public class Main {
 	public static void main(String[] args) throws IOException {
 		
 		int menu = 0;
-		Kadry kadry = new Kadry ();
-		kadry.addStudent(new Pesel("123123123123"), 123);
-		kadry.addStudent(new Pesel("9081239812"), 1000);
-		kadry.addStudent(new Pesel("93464569812"), 500);
-		
+		DB db = new DB();
+		db.createTable();
+		db.wylistujPracownikow();
+
 		while(menu != 8){
 		
 			if (menu == 0)
@@ -34,88 +33,47 @@ public class Main {
 		
 		
 		if(menu == 1){
-			kadry.printOutList();
+			db.wylistujPracownikow();;
 			
 		}else if(menu == 2){
 				int auxMenu = 1;
 				String pesel;
-				double wynagrodzenieBrutto;
+				String wynagrodzenieBrutto;
 				System.out.println("Podaj nr PESEL: ");
 				pesel = bf.readLine();
 				System.out.println("Podaj wynagrodzenie brutto: ");
-				wynagrodzenieBrutto = Double.parseDouble(bf.readLine());
+				wynagrodzenieBrutto = bf.readLine();
+				db.dodajPracownika(pesel, wynagrodzenieBrutto);
 				
-				System.out.println(" Wcisnij: \n1 - aby dodac student\n2 - aby dodac pracownika etatowego");
-				auxMenu = Integer.parseInt(bf.readLine());
-				if (auxMenu == 1){
-					kadry.addStudent(new Pesel(pesel), wynagrodzenieBrutto);
-					System.out.println("Dodano studenta o nr PESEL: "
-					+pesel+" i wynagrodzeniu brutto "+wynagrodzenieBrutto);
-				}else if(auxMenu == 2){
-					kadry.addPracownikEtatowy(new Pesel(pesel), wynagrodzenieBrutto);
-					System.out.println("Dodano Pracownika etatowego o nr PESEL: "
-					+pesel+" i wynagrodzeniu brutto "+wynagrodzenieBrutto);
-				}else{
-					System.out.println("Nie poprawna Liczba! Wcisnij: \n 1 - aby dodac student\n2. aby dodac pracownika etatowego");
-					menu = 0;
-				}
 		}else if(menu == 3){
 			BufferedReader bf3 = new BufferedReader(new InputStreamReader(System.in));
 			System.out.println("Podaj nr PESEL: pracownika do usuniecia");
 			String pesel = bf3.readLine();
-			kadry.deletePracownik(pesel);
+			db.deleteByPesel(pesel);
 		}else if(menu == 4){
 			int pos;
 			BufferedReader bf3 = new BufferedReader(new InputStreamReader(System.in));
 			System.out.println("Podaj nr PESEL: pracownika do wyszukania");
 			String pesel = bf3.readLine();
-			pos=kadry.findPracownik(pesel);
-			if(pos == -1)
-				System.out.println("Nie znaleziono takiego pracownika :((((");
-			else{
-				System.out.println("Pracownik o numerze PESEL"+pesel+"znajduje sie na pozycji "+pos);
-			}
+			db.znajdzPracownika(pesel);
+			
 		}else if(menu == 5){
 			int pos;
 			
 			System.out.println("Podaj nr PESEL: pracownika ktorego wynagrodzenie chcesz zmienic");
 			String pesel = bf.readLine();
-			pos=kadry.findPracownik(pesel);
-			if(pos == -1)
-				System.out.println("Nie znaleziono takiego pracownika :((((");
-			else{
-				System.out.println("Podaj nowe wynagrodzenie");
-				kadry.changeWynagrodzenie(pos, Double.parseDouble(bf.readLine()));
-				System.out.println("Pracownik o nr PESEL "+kadry.getPracownik(pos).getPeselObj().getPesel()+" ma wynagrodzneie brutto "+kadry.getPracownik(pos).getBrutto());
-			}
+			System.out.println("Podaj nowe wynagrodzenie");
+			String noweWynagrodzenie = bf.readLine();
+			db.updatePracownik(pesel, noweWynagrodzenie);
+			
 			}else if(menu == 6){
 			int pos;
 			BufferedReader bf3 = new BufferedReader(new InputStreamReader(System.in));
 			System.out.println("Podaj nr PESEL: pracownika do wyswietlenia");
 			String pesel = bf3.readLine();
-			pos=kadry.findPracownik(pesel);
-			if(pos == -1)
-				System.out.println("Nie znaleziono takiego pracownika :((((");
-			else
-				System.out.println("Pracownik o numerze PESEL "+pesel+" posiada wynagrodznie brutto "+kadry.getPracownik(pos).getBrutto()+" a netto "+kadry.getPracownik(pos).obliczNetto());
-			}else if(menu == 7){
-				boolean war = true;
-				Kadry TempKadry = new Kadry ();
-				TempKadry.addPracownik(kadry.getPracownik(1));
-				PracownikComparator kopr = new PracownikComparator();
-				for(int i = 0;i < kadry.getSize(); i ++){
-					for(int j = 0;j < TempKadry.getSize()&&war;j++){
-							if(kopr.compare(TempKadry.getPracownik(j), kadry.getPracownik(i)) > 0){
-								TempKadry.addOnPosition(kadry.getPracownik(i), j);
-								//war = false;
-								break;
-							}
-						}
-					war = true;
-					}
-				kadry = TempKadry;
-				System.out.println("Done!");
+			db.znajdzPracownika(pesel);
 				}else if(menu == 8){
+					db.closeCon();
 			System.out.println("Bye Bye...");
 			break;
 			
