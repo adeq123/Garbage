@@ -1,36 +1,38 @@
+import java.io.BufferedWriter;
+import java.io.FileNotFoundException;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.io.OutputStreamWriter;
+import java.io.PrintWriter;
 import java.util.LinkedList;
 import java.util.ListIterator;
 
 public class Main {
 
-	public static void main(String[] args) {
-		LinkedList <String> l1 = new LinkedList <String> ();
-		//ListIterator <String> i1 = l1.listIterator();
-		l1.add("asdas");
-		l1.add("asdas");
-		l1.add("asdas");
-		ListIterator <String> i2 = l1.listIterator();
-		//l1.add("asdas");
-		//l1.add("asdas");
-		//l1.add("asdas");
-		//ListIterator <String> i3 = l1.listIterator();
+	public static void main(String[] args) throws IOException {
+		BufferedWriter writer = new BufferedWriter(new OutputStreamWriter(
+				new FileOutputStream("C://test//tst.txt", true)));
 		
-		
-			
-		while(i2.hasNext()){
-			i2.next();
-		}
-		
+		writer.write("raz");
+		writer.write("raz");
+		writer.close();
+	
+		writer.write("raz");
+		writer.write("raz");
+		writer.close();
+		//writer1.write("raz");
+		//writer1.write("raz");
+	 
+	
 		/*
-		while(i3.hasNext())
-			i3.next();
+		try(PrintWriter out = new PrintWriter ("C://test//tst.txt")){
+			out.println("raz");
+		};
 		
-		while(i1.hasNext())
-			i1.next();
+		try(PrintWriter out = new PrintWriter ("C://test//tst.txt")){
+			out.println("raz");
+		};
 		*/
-		
-		//System.out.println("i1: "+i1.previousIndex()+" \n i2: "+i2.previousIndex()+" \n i3: "+i3.previousIndex());
-
 	}
 
 }
